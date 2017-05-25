@@ -12,7 +12,7 @@ body {
   font: 16px "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222222;
   line-height: 1;
-  background: url(/images/bg.jpg) center fixed;
+  background: url(/dsmun17/images/bg.jpg) center fixed;
   background-size: cover;
   height: 100%;
 }
@@ -256,59 +256,59 @@ blockquote {
 }
 
 #committees a:nth-child(1)  .grid-item {
-  background: url(/images/committee_thumbs/bg1.jpg) center;
+  background: url(/dsmun17/images/committee_thumbs/bg1.jpg) center;
   background-size: cover;
 }
 #committees a:nth-child(2)  .grid-item {
-  background: url(/images/committee_thumbs/bg2.jpg) center;
+  background: url(/dsmun17/images/committee_thumbs/bg2.jpg) center;
   background-size: cover;
 }
 #committees a:nth-child(3)  .grid-item {
-  background: url(/images/committee_thumbs/bg3.jpg) center;
+  background: url(/dsmun17/images/committee_thumbs/bg3.jpg) center;
   background-size: cover;
 }
 #committees a:nth-child(4)  .grid-item {
-  background: url(/images/committee_thumbs/bg4.jpg) center;
+  background: url(/dsmun17/images/committee_thumbs/bg4.jpg) center;
   background-size: cover;
 }
 #committees a:nth-child(5)  .grid-item {
-  background: url(/images/committee_thumbs/bg5.jpg) center;
+  background: url(/dsmun17/images/committee_thumbs/bg5.jpg) center;
   background-size: cover;
 }
 #committees a:nth-child(6)  .grid-item {
-  background: url(/images/committee_thumbs/bg6.jpg) center;
+  background: url(/dsmun17/images/committee_thumbs/bg6.jpg) center;
   background-size: cover;
 }
 #committees a:nth-child(7)  .grid-item {
-  background: url(/images/committee_thumbs/bg7.jpg) center;
+  background: url(/dsmun17/images/committee_thumbs/bg7.jpg) center;
   background-size: cover;
 }
 #committees a:nth-child(8)  .grid-item {
-  background: url(/images/committee_thumbs/bg8.jpg) center;
+  background: url(/dsmun17/images/committee_thumbs/bg8.jpg) center;
   background-size: cover;
 }
 #committees a:nth-child(9)  .grid-item {
-  background: url(/images/committee_thumbs/bg9.jpg) center;
+  background: url(/dsmun17/images/committee_thumbs/bg9.jpg) center;
   background-size: cover;
 }
 #committees a:nth-child(10) .grid-item  {
-  background: url(/images/committee_thumbs/bg10.jpg) center;
+  background: url(/dsmun17/images/committee_thumbs/bg10.jpg) center;
   background-size: cover;
 }
 #committees a:nth-child(11) .grid-item  {
-  background: url(/images/committee_thumbs/bg11.jpg) center;
+  background: url(/dsmun17/images/committee_thumbs/bg11.jpg) center;
   background-size: cover;
 }
 #committees a:nth-child(12) .grid-item  {
-  background: url(/images/committee_thumbs/bg12.jpg) center;
+  background: url(/dsmun17/images/committee_thumbs/bg12.jpg) center;
   background-size: cover;
 }
 #committees a:nth-child(13) .grid-item  {
-  background: url(/images/committee_thumbs/bg13.jpg) center;
+  background: url(/dsmun17/images/committee_thumbs/bg13.jpg) center;
   background-size: cover;
 }
 #committees a:nth-child(14) .grid-item  {
-  background: url(/images/committee_thumbs/bg14.jpg) center;
+  background: url(/dsmun17/images/committee_thumbs/bg14.jpg) center;
   background-size: cover;
 }
 
@@ -318,67 +318,67 @@ blockquote {
  */
 
 #gallery .grid-item:nth-child(1) {
-  background: url(/images/gallery/pic1.jpg) center;
+  background: url(/dsmun17/images/gallery/pic1.jpg) center;
   background-size: cover;
 }
 #gallery .grid-item:nth-child(2) {
-  background: url(/images/gallery/pic2.jpg) center;
+  background: url(/dsmun17/images/gallery/pic2.jpg) center;
   background-size: cover;
 }
 #gallery .grid-item:nth-child(3) {
-  background: url(/images/gallery/pic3.jpg) center;
+  background: url(/dsmun17/images/gallery/pic3.jpg) center;
   background-size: cover;
 }
 #gallery .grid-item:nth-child(4) {
-  background: url(/images/gallery/pic4.jpg) center;
+  background: url(/dsmun17/images/gallery/pic4.jpg) center;
   background-size: cover;
 }
 #gallery .grid-item:nth-child(5) {
-  background: url(/images/gallery/pic5.jpg) center;
+  background: url(/dsmun17/images/gallery/pic5.jpg) center;
   background-size: cover;
 }
 #gallery .grid-item:nth-child(6) {
-  background: url(/images/gallery/pic6.jpg) center;
+  background: url(/dsmun17/images/gallery/pic6.jpg) center;
   background-size: cover;
 }
 #gallery .grid-item:nth-child(7) {
-  background: url(/images/gallery/pic7.jpg) center;
+  background: url(/dsmun17/images/gallery/pic7.jpg) center;
   background-size: cover;
 }
 #gallery .grid-item:nth-child(8) {
-  background: url(/images/gallery/pic8.jpg) center;
+  background: url(/dsmun17/images/gallery/pic8.jpg) center;
   background-size: cover;
 }
 #gallery .grid-item:nth-child(9) {
-  background: url(/images/gallery/pic9.jpg) center;
+  background: url(/dsmun17/images/gallery/pic9.jpg) center;
   background-size: cover;
 }
 #gallery .grid-item:nth-child(10) {
-  background: url(/images/gallery/pic10.jpg) center;
+  background: url(/dsmun17/images/gallery/pic10.jpg) center;
   background-size: cover;
 }
 #gallery .grid-item:nth-child(11) {
-  background: url(/images/gallery/pic11.jpg) center;
+  background: url(/dsmun17/images/gallery/pic11.jpg) center;
   background-size: cover;
 }
 #gallery .grid-item:nth-child(12) {
-  background: url(/images/gallery/pic12.jpg) center;
+  background: url(/dsmun17/images/gallery/pic12.jpg) center;
   background-size: cover;
 }
 #gallery .grid-item:nth-child(13) {
-  background: url(/images/gallery/pic13.jpg) center;
+  background: url(/dsmun17/images/gallery/pic13.jpg) center;
   background-size: cover;
 }
 #gallery .grid-item:nth-child(14) {
-  background: url(/images/gallery/pic14.jpg) center;
+  background: url(/dsmun17/images/gallery/pic14.jpg) center;
   background-size: cover;
 }
 #gallery .grid-item:nth-child(15) {
-  background: url(/images/gallery/pic15.jpg) center;
+  background: url(/dsmun17/images/gallery/pic15.jpg) center;
   background-size: cover;
 }
 #gallery .grid-item:nth-child(16) {
-  background: url(/images/gallery/pic16.jpg) center;
+  background: url(/dsmun17/images/gallery/pic16.jpg) center;
   background-size: cover;
 }
 
