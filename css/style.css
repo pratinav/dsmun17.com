@@ -99,10 +99,10 @@ nav a:first-child {
 
 section.panel {
   background: rgba(255, 255, 255, 0.825);
-  padding: 5em;
+  padding: 4em;
   margin-top: 4em;
   margin-bottom: 4em;
-  width: 90%;
+  width: 92.5%;
 }
 
 .feature:after {
@@ -121,7 +121,7 @@ section.panel {
 .feature-item:last-child {
   margin-right: 0;
 }
-@media screen and (max-width: 800px) {
+@media only screen and (max-width: 800px) {
   .feature-item {
     width: 100%;
     margin-left: 0;
@@ -147,48 +147,52 @@ section.panel {
 }
 
 .grid-item {
-  width: 25%;
+  width: 33%;
   float: left;
-  height: 136px;
+  height: 176px;
   position: relative;
   cursor: pointer;
 }
-@media screen and (max-width: 900px) {
-  .grid-item {
-    width: 33%;
-  }
-}
-@media screen and (max-width: 700px) {
+
+@media only screen and (max-width: 960px) {
   .grid-item {
     width: 50%;
+    height: 256px;
   }
 }
-@media screen and (max-width: 500px) {
+
+@media only screen and (max-width: 660px) {
   .grid-item {
     width: 100%;
+    height: 256px;
   }
 }
-.grid-item:after {
-  content: "";
-  background: rgba(34, 34, 34, 0.75);
+
+#committees .grid-item:after {
+  background: rgba(34, 34, 34, 0.8);
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  color: white;
   display: flex;
   align-items: center;
   justify-content: center;
+  color: #CCCFD2;
+  line-height: 1.3;
   text-transform: uppercase;
+  text-align: center;
   font-size: 0.75em;
   font-family: "Montserrat", "Roboto", "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
   letter-spacing: 0.1em;
-  opacity: 0;
-  transition: all 200ms;
-}
-.grid-item:hover:after {
   opacity: 1;
+  transition: all 200ms;
+  padding: 0 0.25em;
+}
+
+#committees .grid-item:hover:after {
+  opacity: 0.5;
 }
 
 .grid:after {
@@ -259,58 +263,114 @@ blockquote {
   background: url(/dsmun17/images/committee_thumbs/bg1.jpg) center;
   background-size: cover;
 }
+#committees a:nth-child(1) .grid-item:after {
+  content: "united nations security council";
+}
+
 #committees a:nth-child(2)  .grid-item {
   background: url(/dsmun17/images/committee_thumbs/bg2.jpg) center;
   background-size: cover;
 }
+#committees a:nth-child(2) .grid-item:after {
+  content: "disarmament and international security committee";
+}
+
 #committees a:nth-child(3)  .grid-item {
   background: url(/dsmun17/images/committee_thumbs/bg3.jpg) center;
   background-size: cover;
 }
+#committees a:nth-child(3) .grid-item:after {
+  content: "International Press Corps";
+}
+
 #committees a:nth-child(4)  .grid-item {
   background: url(/dsmun17/images/committee_thumbs/bg4.jpg) center;
   background-size: cover;
 }
+#committees a:nth-child(4) .grid-item:after {
+  content: "Lok Sabha";
+}
+
 #committees a:nth-child(5)  .grid-item {
   background: url(/dsmun17/images/committee_thumbs/bg5.jpg) center;
   background-size: cover;
 }
+#committees a:nth-child(5) .grid-item:after {
+  content: "Special convention on religion and terror";
+}
+
 #committees a:nth-child(6)  .grid-item {
   background: url(/dsmun17/images/committee_thumbs/bg6.jpg) center;
   background-size: cover;
 }
+#committees a:nth-child(6) .grid-item:after {
+  content: "special political and decolonization committee";
+}
+
 #committees a:nth-child(7)  .grid-item {
   background: url(/dsmun17/images/committee_thumbs/bg7.jpg) center;
   background-size: cover;
 }
+#committees a:nth-child(7) .grid-item:after {
+  content: "united nations framework convention for climate change";
+}
+
 #committees a:nth-child(8)  .grid-item {
   background: url(/dsmun17/images/committee_thumbs/bg8.jpg) center;
   background-size: cover;
 }
+#committees a:nth-child(8) .grid-item:after {
+  content: "united nations high commission for refugees";
+}
+
 #committees a:nth-child(9)  .grid-item {
   background: url(/dsmun17/images/committee_thumbs/bg9.jpg) center;
   background-size: cover;
 }
+#committees a:nth-child(9) .grid-item:after {
+  content: "united nations human rights council";
+}
+
 #committees a:nth-child(10) .grid-item  {
   background: url(/dsmun17/images/committee_thumbs/bg10.jpg) center;
   background-size: cover;
 }
+#committees a:nth-child(10) .grid-item:after {
+  content: "united nations historical security council";
+}
+
 #committees a:nth-child(11) .grid-item  {
   background: url(/dsmun17/images/committee_thumbs/bg11.jpg) center;
   background-size: cover;
 }
+#committees a:nth-child(11) .grid-item:after {
+  content: "united nations military staff committee";
+}
+
 #committees a:nth-child(12) .grid-item  {
   background: url(/dsmun17/images/committee_thumbs/bg12.jpg) center;
   background-size: cover;
 }
+#committees a:nth-child(12) .grid-item:after {
+  content: "united states national security council";
+}
+
 #committees a:nth-child(13) .grid-item  {
   background: url(/dsmun17/images/committee_thumbs/bg13.jpg) center;
   background-size: cover;
 }
+#committees a:nth-child(13) .grid-item:after {
+  content: "United nations women";
+}
+
 #committees a:nth-child(14) .grid-item  {
   background: url(/dsmun17/images/committee_thumbs/bg14.jpg) center;
   background-size: cover;
 }
+#committees a:nth-child(14) .grid-item:after {
+  content: "all india political parties meet";
+}
+
 
 
 /**
@@ -438,4 +498,34 @@ blockquote {
   padding: 0.5em 1.5em;
   cursor: pointer;
   color: #1086D6;
+}
+
+/**
+ * Committee page styles
+ */
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+#deputy-chairpersons {
+  margin-top: 2em;
+}
+
+.chair_img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  float: right;
+  margin-bottom: 1em;
+  margin-left: 1em;
+}
+
+@media screen (and max-width: 416px) {
+  .chair_img {
+    margin-left: 0;
+  }
 }
