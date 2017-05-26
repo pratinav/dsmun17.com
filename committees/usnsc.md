@@ -1,6 +1,7 @@
 ---
 permalink: /committees/usnsc
 title: United States National Security Council
+chair: Archit Barthwal
 ---
 
 Greetings Delegates!

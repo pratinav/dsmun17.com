@@ -1,6 +1,7 @@
 ---
 permalink: /committees/unhsc
 title: United Nations Historical Security Council
+chair: Ishan Jhawar
 ---
 
 Hello Delegates and welcome to the Historic Security Council at DSMUN 2017!

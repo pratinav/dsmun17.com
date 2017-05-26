@@ -1,6 +1,7 @@
 ---
 title: All India Political Parties Meet
 permalink: /committees/aippm
+chair: Shikhar Trivedi
 ---
 
 Namaste Delegates!
