@@ -1,9 +1,7 @@
 ---
 permalink: /committees/usnsc
+title: United States National Security Council
 ---
-### United States National Security Council
-<hr>
-<img class="chair_img" src="/dsmun17/images/chairpersons/usnsc.jpg">
 
 Greetings Delegates!
 

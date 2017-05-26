@@ -1,9 +1,7 @@
 ---
 permalink: /committees/unw
+title: United Nations Commission on Women Status
 ---
-### United Nations Commission on Women Status
-<hr>
-<img class="chair_img" src="/dsmun17/images/chairpersons/unw.jpg">
 
 Dear Delegates,
 

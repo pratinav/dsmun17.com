@@ -1,9 +1,7 @@
 ---
 permalink: /committees/scrt
+title: Special Convention on Religion and Terror
 ---
-### Special Convention on Religion and Terror
-<hr>
-<img class="chair_img" src="/dsmun17/images/chairpersons/scrt.jpg">
 
 Greetings Delegates,
 

@@ -1,9 +1,7 @@
 ---
 permalink: /committees/unmsc
+title: United Nations Military Staff Committee
 ---
-### United Nations Military Staff Committee
-<hr>
-<img class="chair_img" src="/dsmun17/images/chairpersons/unmsc.jpg">
 
 Hello and welcome, Delegates, to the 11th The Doon School Model United Nations, a decade old, prestigious International MUN with high standards of debate and respect for diplomacy.
 

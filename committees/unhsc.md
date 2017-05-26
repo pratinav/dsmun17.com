@@ -1,9 +1,7 @@
 ---
 permalink: /committees/unhsc
+title: United Nations Historical Security Council
 ---
-### United Nations Historical Security Council
-<hr>
-<img class="chair_img" src="/dsmun17/images/chairpersons/unhsc.jpg">
 
 Hello Delegates and welcome to the Historic Security Council at DSMUN 2017!
 

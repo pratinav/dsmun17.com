@@ -1,10 +1,7 @@
 ---
+title: All India Political Parties Meet
 permalink: /committees/aippm
 ---
-
-### All India Political Parties Meet
-<hr>
-<img class="chair_img" src="/dsmun17/images/chairpersons/aippm.jpg">
 
 Namaste Delegates!
 
@@ -17,6 +14,7 @@ The agenda provides a lot of scope for points and counter-points and I am expect
 All the best for the conference, and see you soon.
 
 Signing off,
+
 Shikhar Trivedi
 
 

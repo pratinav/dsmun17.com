@@ -1,9 +1,7 @@
 ---
 permalink: /committees/unfccc
+title: United Nations Framework Convention on Climate Change
 ---
-### United Nations Framework Convention on Climate Change
-<hr>
-<img class="chair_img" src="/dsmun17/images/chairpersons/unfccc.jpg">
 
 Dear Delegates,
 

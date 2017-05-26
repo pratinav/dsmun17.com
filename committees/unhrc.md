@@ -1,9 +1,7 @@
 ---
 permalink: /committees/unhrc
+title: United Nations Human Rights Council
 ---
-### United Nations Human Rights Council
-<hr>
-<img class="chair_img" src="/dsmun17/images/chairpersons/unhrc.jpg">
 
 Dear Delegates,
 

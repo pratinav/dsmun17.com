@@ -1,9 +1,7 @@
 ---
 permalink: /committees/unhcr
+title: United Nations High Commission For Refugees
 ---
-### United Nations High Commission for Refugees
-<hr>
-<img class="chair_img" src="/dsmun17/images/chairpersons/unhcr.jpg">
 
 Greetings Delegates,
 
