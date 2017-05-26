@@ -1,6 +1,7 @@
 ---
 permalink: /committees/ls
 title: Lok Sabha
+chair: Raihan Vadra
 ---
 
 Speeches are heard, Votes are taken and Laws are made! Welcome to the Lok Sabha. I am honoured and privileged to be serving as the Speaker of this historic body at DSMUN 2017.

@@ -3,4 +3,4 @@ baseurl: /dsmun17
 defaults:
   -
     values:
-      layout: "page"
+      layout: "committee_page"

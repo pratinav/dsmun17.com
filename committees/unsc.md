@@ -1,6 +1,7 @@
 ---
 permalink: /committees/unsc
 title: United Nations Security Council
+chair: Arjun Singh
 ---
 
 Hello Delegates!

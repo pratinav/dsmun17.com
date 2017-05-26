@@ -1,6 +1,7 @@
 ---
 permalink: /committees/unw
 title: United Nations Commission on Women Status
+chair: Devang Laddha
 ---
 
 Dear Delegates,
@@ -13,7 +14,7 @@ Delegates are expected to adapt to the committee and will be judged on their cap
 
 Finally, I hope to see you all at DSMUN in August and hope that, along with having a memorable MUN experience, you also enjoy your stay with us!
 
-### Deputy Chairs
+### Deputy Chairpersons
 <hr>
 
 - Hamza Hussain

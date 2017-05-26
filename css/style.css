@@ -516,16 +516,25 @@ li {
 }
 
 .chair_img {
-  width: 100%;
-  max-width: 400px;
-  height: auto;
   float: right;
   margin-bottom: 1em;
   margin-left: 1em;
+}
+
+.chair_img img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
 }
 
 @media screen (and max-width: 416px) {
   .chair_img {
     margin-left: 0;
   }
+}
+
+.chair_img figcaption {
+  color: gray;
+  margin-top: 0.5em;
+  text-align: center
 }

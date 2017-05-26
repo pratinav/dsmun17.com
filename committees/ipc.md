@@ -1,6 +1,7 @@
 ---
 permalink: /committees/ipc
 title: International Press Corps
+chair: Aryan Chhabra
 ---
 
 It gives me great pleasure to welcome you to International Press Corps of DSMUN’17.
