@@ -1,2 +1,6 @@
 exclude: [".gitignore"]
 baseurl: /dsmun17
+defaults:
+  -
+    values:
+      layout: "committee_page"
