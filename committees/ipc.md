@@ -1,9 +1,7 @@
 ---
 permalink: /committees/ipc
+title: International Press Corps
 ---
-### International press corps
-<hr>
-<img class="chair_img" src="/dsmun17/images/chairpersons/ipc.jpg">
 
 It gives me great pleasure to welcome you to International Press Corps of DSMUN’17.
 

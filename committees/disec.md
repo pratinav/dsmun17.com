@@ -1,9 +1,7 @@
 ---
 permalink: /committees/disec
+title: Disarmament and International Security Committee
 ---
-### Disarmament and International Security Committee
-<hr>
-<img class="chair_img" src="/dsmun17/images/chairpersons/disec.jpg">
 
 “The Disarmament Conference has become the focal point of a great struggle between anarchy and world order… between those who think in terms of inevitable armed conflict and those who seek to build a universal and durable peace.”
 

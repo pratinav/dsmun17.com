@@ -5,6 +5,9 @@
   <body>
     {% include header.html %}
     <section id="committee" class="container panel clear-header">
+    <h3>{{ page.title }}</h3>
+    <hr>
+    <img class="chair_img" src="{{ site.baseurl }}/images/chairpersons/{{ page.name | remove: 'md' }}jpg">
       {{ content }}
     </section>
     {% include footer.html %}

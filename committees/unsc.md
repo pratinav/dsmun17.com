@@ -1,9 +1,7 @@
 ---
 permalink: /committees/unsc
+title: United Nations Security Council
 ---
-### United Nations Security Council
-<hr>
-<img class="chair_img" src="/dsmun17/images/chairpersons/unsc.jpg">
 
 Hello Delegates!
 
