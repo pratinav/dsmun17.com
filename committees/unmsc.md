@@ -11,8 +11,10 @@ UNMSC is a subsidiary body of the UNSC whose role as defined by the United Natio
 
 The two agendas set forth are
 
-Privatization of war with an emphasis on the role of privately funded militaries and the illegitimate cyber dealings of Military intelligence and armaments;
+Privatization of war with an emphasis on the role of privately funded militaries;
+
 Challenges in planning of the UN peacekeeping troops and the UN’s call for a standing army, a combination of two interrelated topics which have been heavily debated since the very inception of the United Nations.
+
 I expect Delegates to support their arguments with substantial and reliable resources and facts. The stance of each delegate should be clear with no room for ambiguity.
 
 I wish you the very best of luck and look forward to seeing you all in August.
