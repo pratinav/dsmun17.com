@@ -312,7 +312,7 @@ blockquote {
   background-size: cover;
 }
 #committees a:nth-child(7) .grid-item:after {
-  content: "united nations framework convention for climate change";
+  content: "united nations framework convention on climate change";
 }
 
 #committees a:nth-child(8)  .grid-item {
