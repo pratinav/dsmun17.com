@@ -10,11 +10,10 @@ I am Yuvan Jaidka, your Chairperson for UNMSC. With a keen interest in Politics,
 
 UNMSC is a subsidiary body of the UNSC whose role as defined by the United Nations Charter is to plan UN Military operations and assist in regulations of Militaries around the world. While recognizing its dormancy for the past decade, we come together to revive the committee to take on pressing issues set before us in the dynamic geo political world scenario.
 
-The two agendas set forth are
+The two agendas set forth are:
 
-Privatization of war with an emphasis on the role of privately funded militaries;
-
-Challenges in planning of the UN peacekeeping troops and the UN’s call for a standing army, a combination of two interrelated topics which have been heavily debated since the very inception of the United Nations.
+- Privatization of war with an emphasis on the role of privately funded militaries;
+- Challenges in planning of the UN peacekeeping troops and the UN’s call for a standing army, a combination of two interrelated topics which have been heavily debated since the very inception of the United Nations.
 
 I expect Delegates to support their arguments with substantial and reliable resources and facts. The stance of each delegate should be clear with no room for ambiguity.
 

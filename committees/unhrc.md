@@ -14,10 +14,11 @@ I expect several things from my delegates through the course of the conference. 
 
 Moreover, I expect my delegates to be actively involved in the unmoderated caucuses and play important roles in leading their respective blocs. More than just a formal debate, Model United Nations is about acquiring the subtle nuances of diplomacy. Finally- but most importantly- I expect my delegates to have fun this weekend and learn because there’s always more to DSMUN than you would imagine!
 
-This year, the agendas that will be discussed in HRC are :
+This year, the agendas that will be discussed in HRC are:
 
-Protection of the rights of sex workers.
-Safeguarding the rights of the Rohingya muslims in Myanmar.
+- Protection of the rights of sex workers.
+- Safeguarding the rights of the Rohingya muslims in Myanmar.
+
 Looking forward to meeting you!
 
 Regards,
