@@ -201,6 +201,11 @@ footer {
   background: #222222;
   color: white;
 }
+
+footer a {
+  color: #139EFF;
+}
+
 footer .container {
   position: relative;
 }
