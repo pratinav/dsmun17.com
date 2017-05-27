@@ -1,5 +1,5 @@
 ---
-title: All India Political Parties Meet
+title: All India Political Parties Meet 2002
 permalink: /committees/aippm
 chair: Shikhar Trivedi
 ---
@@ -7,6 +7,10 @@ chair: Shikhar Trivedi
 Namaste Delegates!
 
 It is an honour to host you all in the All India Political Parties Meet at the 11th Doon School Model United Nations. I am Shikhar Trivedi, and will serve as your Chairperson this year. I am an SC Form (class 12) student of the ISC Curriculum at The Doon School and poetry, oratory, debating and dramatics have a really special place in my heart.
+
+The agenda for this year's AIPPM 2002 is:
+
+"Discussion on the Gujarat Government's intervention, and any other political involvment in communal violence in the State, with emphasis on the year 2002."
 
 In committee, diplomacy should be accorded your topmost priority, and your party’s interests should be at the forefront of your debate. This will be a bilingual committee, with Hindi and English being the two languages for communication. All documentation will be in English.
 

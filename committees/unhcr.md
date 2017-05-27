@@ -14,8 +14,9 @@ The Executive Board expects delegates to be creative as well as pragmatic in tac
 
 This year UNHCR will be focusing on two main agendas, both having respective sub-agendas.
 
-The present refugee crisis with special emphasis on the MENA region.
-Problems related to social, economic and cultural re-integration of refugees in the MENA region.
+- The present refugee crisis with special emphasis on the MENA region.
+- Problems related to social, economic and cultural re-integration of refugees in the MENA region.
+
 As for myself, I am an S Form student (Class 11) studying the International Baccalaureate Diploma Programme. Having a keen interest in international relations and world affairs, I serve on the Editorial Board of the School’s flagship publication. All delegates are welcome to contact my Deputy Chairpersons Samar Mundi and Darsh Garg, or myself if any special assistance is required.
 
 I hope you enjoy your time at Chandbagh and look forward to meeting the delegates come August.

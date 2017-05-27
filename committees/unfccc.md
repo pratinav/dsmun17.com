@@ -14,8 +14,9 @@ To establish a high level of debate, deliberation and diplomatic rigor in the co
 
 The agendas for this year’s UNFCCC are as follow:
 
-Trump, Fracking and the Degradation of world order
-Corporate and social responsibility taken by firms and governments
+- Trump, Fracking and the Degradation of world order
+- Corporate and social responsibility taken by firms and governments
+
 On this note, I wish you good luck and hope to see you prepared and prepped at Chandbagh this fall.
 
 Your’s truly,

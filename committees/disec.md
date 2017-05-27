@@ -18,8 +18,9 @@ As for myself, I am an ISC student currently in the SC Form (class 12). I have b
 
 This year, the agendas that will be discussed in DISEC are:
 
- International security pertaining to Foreign Military Bases
-Arms Trading and Trafficking in Africa
+- International security pertaining to Foreign Military Bases
+- Arms Trading and Trafficking in Africa
+
 I urge delegates to know their agendas well as my deputy chairpersons—Aayush Chowdhry and Aaditya Gupta—who will be on the prowl! For any further clarifications or assistance, please feel free to reach out to me at chair.disec@doonschool.com.
 
 Lastly, I reiterate, I expect the highest level of debate in hope of reaching a plausible conclusion but, above all, I hope that all of you have a memorable time at Chandbagh and return wiser.

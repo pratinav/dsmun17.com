@@ -12,7 +12,8 @@ The committee, Special Convention on Religion and Terror will be a new and excit
 
 The agenda for the committee will be as follows:
 
-Religious conflicts in Middle East
+- Religious conflicts in Middle East
+
 The delegates are reminded that the discussions in the committee will be of a sensitive nature and thus are required to word their speeches or documents appropriately.
 
 Delegates should be prepared to handle a myriad of crises which will test their intellect, knowledge and impromptu debating skills. The delegates are reminded that the background guide will only serve as a starting point and they are not to solely rely on this document. They must be well-researched using various media to enhance their knowledge.
