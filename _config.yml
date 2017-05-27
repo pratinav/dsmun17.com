@@ -1,5 +1,4 @@
 exclude: [".gitignore"]
-baseurl: /
 defaults:
   -
     values:
