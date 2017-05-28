@@ -528,10 +528,14 @@ blockquote {
   float: right;
   margin-bottom: 1em;
   margin-left: 1em;
+  width: 100%;
+  max-width: 400px;
 }
 
-.chair_img.kalpit {
+#about_others .chair_img {
   float: none;
+  margin: 0;
+  display: inline-block;
 }
 
 .chair_img.kalpit figcaption {
@@ -542,7 +546,6 @@ blockquote {
 
 .chair_img img {
   width: 100%;
-  max-width: 400px;
   height: auto;
 }
 
