@@ -530,6 +530,16 @@ blockquote {
   margin-left: 1em;
 }
 
+.chair_img.kalpit {
+  float: none;
+}
+
+.chair_img.kalpit figcaption {
+  color: gray;
+  margin-top: 0.5em;
+  text-align: left;
+}
+
 .chair_img img {
   width: 100%;
   max-width: 400px;
