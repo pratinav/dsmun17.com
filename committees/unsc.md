@@ -25,5 +25,5 @@ Looking forward to meeting you and, more importantly, working together at the co
 ### Deputy Chairpersons
 <hr>
 
-- Kanishk Kanodia
+- Kanishkh Kanodia
 - Amal Bansode
