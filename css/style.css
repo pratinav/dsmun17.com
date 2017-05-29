@@ -536,12 +536,23 @@ blockquote {
   float: none;
   margin: 0;
   display: inline-block;
+  width: 48%;
+  max-width: none;
 }
 
-.chair_img.kalpit figcaption {
-  color: gray;
-  margin-top: 0.5em;
-  text-align: left;
+#about_others .chair_img:first-child {
+  margin-right: 2%;
+}
+
+@media only screen and (max-width: 800px) {
+  #about_others .chair_img {
+    width: 100%;
+  }
+
+  #about_others .chair_img:first-child {
+    margin-right: 0;
+    margin-bottom: 1em;
+  }
 }
 
 .chair_img img {
@@ -549,7 +560,7 @@ blockquote {
   height: auto;
 }
 
-@media screen (and max-width: 416px) {
+@media only screen and (max-width: 416px) {
   .chair_img {
     margin-left: 0;
   }
