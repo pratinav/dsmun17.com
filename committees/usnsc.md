@@ -1,5 +1,5 @@
 ---
-permalink: /committees/usnsc
+permalink: /committees/usnsc/
 title: United States National Security Council
 chair: Archit Barthwal
 ---

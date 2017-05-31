@@ -1,5 +1,5 @@
 ---
-permalink: /committees/unmsc
+permalink: /committees/unmsc/
 title: United Nations Military Staff Committee
 chair: Yuvan Jaidka
 ---

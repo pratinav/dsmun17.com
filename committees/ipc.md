@@ -1,5 +1,5 @@
 ---
-permalink: /committees/ipc
+permalink: /committees/ipc/
 title: International Press Corps
 chair: Aryan Chhabra
 ---

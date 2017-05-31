@@ -1,5 +1,5 @@
 ---
-permalink: /committees/unsc
+permalink: /committees/unsc/
 title: United Nations Security Council
 chair: Arjun Singh
 ---
