@@ -1,4 +1,4 @@
-exclude: [".gitignore", "CNAME"]
+exclude: [".gitignore"]
 defaults:
   -
     values:
