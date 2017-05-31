@@ -459,7 +459,6 @@ blockquote {
 
 #contact form {
   max-width: 600px;
-  margin-bottom: 2em;
 }
 #contact form input, #contact form textarea {
   font: inherit;
