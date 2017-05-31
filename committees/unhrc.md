@@ -1,5 +1,5 @@
 ---
-permalink: /committees/unhrc
+permalink: /committees/unhrc/
 title: United Nations Human Rights Council
 chair: Harshit Bansal
 ---

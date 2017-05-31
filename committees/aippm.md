@@ -1,6 +1,6 @@
 ---
 title: All India Political Parties Meet 2002
-permalink: /committees/aippm
+permalink: /committees/aippm/
 chair: Shikhar Trivedi
 ---
 

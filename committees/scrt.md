@@ -1,5 +1,5 @@
 ---
-permalink: /committees/scrt
+permalink: /committees/scrt/
 title: Special Convention on Religion and Terror
 chair: Vathsal Kumar Gupta
 ---
