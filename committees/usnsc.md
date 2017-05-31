@@ -6,7 +6,7 @@ chair: Archit Barthwal
 
 Greetings Delegates!
 
-My name is Archit Barthwal and I will be presiding over the United States National Security Council for DSMUN 2017. I am currently in the SC Form (Class12) pursuing (and sometimes being pursued by) the IBDP. I do really enjoy MUN-ing and have participated in a couple of MUNs such as HMUN China, MCGSMUN. I was also a Deputy Chairperson at DSMUN 2016.
+My name is Archit Barthwal and I will be presiding over the United States National Security Council for DSMUN 2017. I am currently in the SC Form (Class 12) pursuing (and sometimes being pursued by) the IBDP. I do really enjoy MUN-ing and have participated in a couple of MUNs such as HMUN China, MCGSMUN. I was also a Deputy Chairperson at DSMUN 2016.
 
 Apart from MUN-ing, my interests lie in Boxing, Dance and Drama.
 
