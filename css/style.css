@@ -135,6 +135,7 @@ section.panel {
 .feature-item:last-child {
   margin-right: 0;
 }
+
 @media only screen and (max-width: 800px) {
   .feature-item {
     width: 100%;
