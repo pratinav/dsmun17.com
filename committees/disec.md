@@ -1,5 +1,5 @@
 ---
-permalink: /committees/disec
+permalink: /committees/disec/
 title: Disarmament and International Security Committee
 chair: Arunav Vaish
 ---

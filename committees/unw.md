@@ -1,5 +1,5 @@
 ---
-permalink: /committees/unw
+permalink: /committees/unw/
 title: United Nations Commission on Women Status
 chair: Devang Laddha
 ---

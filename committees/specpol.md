@@ -1,5 +1,5 @@
 ---
-permalink: /committees/specpol
+permalink: /committees/specpol/
 title: Special Political and Decolonization Committee
 chair: Vedant Mehra
 ---
