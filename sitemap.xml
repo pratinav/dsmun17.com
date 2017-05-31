@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://dsmun17.com/</loc>
+  <lastmod>2017-05-31T10:20:39+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/#committees</loc>
+  <lastmod>2017-05-31T10:20:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/about-the-eb/</loc>
+  <lastmod>2017-05-31T10:04:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/gallery/</loc>
+  <lastmod>2017-05-31T10:20:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/contact/</loc>
+  <lastmod>2017-05-31T10:20:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/committees/unsc/</loc>
+  <lastmod>2017-05-31T10:20:45+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/committees/disec/</loc>
+  <lastmod>2017-05-31T10:20:40+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/committees/ipc/</loc>
+  <lastmod>2017-05-31T10:20:41+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/committees/ls/</loc>
+  <lastmod>2017-05-31T10:20:41+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/committees/scrt/</loc>
+  <lastmod>2017-05-31T10:20:42+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/committees/specpol/</loc>
+  <lastmod>2017-05-31T10:20:42+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/committees/unfccc/</loc>
+  <lastmod>2017-05-31T10:20:43+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/committees/unhcr/</loc>
+  <lastmod>2017-05-31T10:20:43+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/committees/unhrc/</loc>
+  <lastmod>2017-05-31T10:20:44+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/committees/unhsc/</loc>
+  <lastmod>2017-05-31T10:20:44+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/committees/unmsc/</loc>
+  <lastmod>2017-05-31T10:20:45+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/committees/usnsc/</loc>
+  <lastmod>2017-05-31T10:20:46+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/committees/unw/</loc>
+  <lastmod>2017-05-31T10:20:46+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://dsmun17.com/committees/aippm/</loc>
+  <lastmod>2017-05-31T10:20:40+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+</urlset>
