@@ -1,5 +1,5 @@
 ---
-permalink: /committees/unhcr
+permalink: /committees/unhcr/
 title: United Nations High Commission For Refugees
 chair: Zoraver Mehta
 ---

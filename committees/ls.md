@@ -1,5 +1,5 @@
 ---
-permalink: /committees/ls
+permalink: /committees/ls/
 title: Lok Sabha
 chair: Raihan Vadra
 ---
