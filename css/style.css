@@ -632,3 +632,13 @@ blockquote {
   margin-top: 0.5em;
   text-align: center;
 }
+
+/**
+ * Thanks page styles
+ */
+
+#thanks + footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
