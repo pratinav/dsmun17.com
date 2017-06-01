@@ -1,5 +1,5 @@
 <?php
-$to_email  = "pratinavbagla@gmail.com";
+$to_email  = "dsmun@doonschool.com";
 
 $name = check_input($_POST['name'], "No name entered");
 $subject = "New contact form submission!";
