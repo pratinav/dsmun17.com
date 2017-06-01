@@ -24,7 +24,7 @@ End of message
 
 mail($to_email, $subject, $message);
 
-header('Location: thanks/');
+header('Location: /thanks/');
 exit();
 
 function check_input($data, $problem='')
