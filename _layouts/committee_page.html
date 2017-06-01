@@ -4,16 +4,17 @@
 
   <body>
     {% include header.html %}
-    <section id="committee" class="container panel clear-header">
-    <h3>{{ page.title }}</h3>
-    <hr>
-    <figure class="chair_img">
-      <img src="{{ site.baseurl }}/images/chairpersons/{{ page.name | remove: 'md' }}jpg">
-      <figcaption>{{ page.chair }}</figcaption>
-    </figure>
-
-      {{ content }}
-    </section>
+    <main>
+        <article id="committee" class="container panel clear-header">
+            <h3>{{ page.title }}</h3>
+            <hr>
+            <figure class="chair_img">
+              <img src="{{ site.baseurl }}/images/chairpersons/{{ page.name | remove: 'md' }}jpg">
+              <figcaption>{{ page.chair }}</figcaption>
+            </figure>
+            {{ content }}
+        </article>
+    </main>
     {% include footer.html %}
   </body>
 </html>

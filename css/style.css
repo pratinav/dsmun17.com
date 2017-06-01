@@ -110,7 +110,7 @@ nav ul li a {
   height: auto;
 }
 
-section.panel {
+.panel {
   background: rgba(255, 255, 255, 0.825);
   padding: 4em;
   margin-top: 4em;
