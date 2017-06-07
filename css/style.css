@@ -19,7 +19,7 @@ body {
 }
 
 a {
-  color: inherit;
+  color: #1086d6;
   text-decoration: none;
 }
 
@@ -69,7 +69,6 @@ nav {
   font-size: 0.75em;
   font-family: "Montserrat", "Roboto", "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
-  color: white;
 }
 
 nav ul {
@@ -80,7 +79,8 @@ nav ul li {
   display: inline;
 }
 
-nav ul li a {
+nav a {
+  color: white;
   margin-left: 2em;
   padding-bottom: 2.5px;
 }
