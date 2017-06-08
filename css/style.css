@@ -55,6 +55,14 @@ hr {
   margin: 1em 0;
 }
 
+.btn {
+  border: 1px solid #1086d6;
+  border-radius: 0.25em;
+  color: #1086d6;
+  padding: 0.65em 1.5em;
+  cursor: pointer;
+}
+
 .clear-header {
   margin-top: 10em !important;
 }
@@ -219,6 +227,10 @@ nav a {
   display: table;
   clear: both;
 }
+
+/**
+ * Footer styles
+ */
 
 footer {
   padding: 5em 0;
