@@ -11,7 +11,6 @@ It’s a pleasure to have you as members of the Security Council at DSMUN, 2017.
 This year, our committee has been designed with the goal of testing the delegates’ persuasive and collaborative skills- both of which are elemental to diplomacy. On that note, we’ve selected
 
 - the ‘Reformation of the Security Council’
-- Russia’s funding of the Taliban in Afghanistan
 as the agendas for Committee.
 
 Being currently relevant, tricky and controversial topics, we hope they will interest and challenge you as the committee navigates them over the course of three-days.
