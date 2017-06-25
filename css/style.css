@@ -96,7 +96,7 @@ nav a {
 .nav-toggle {
   position: fixed;
   top: 2em;
-  right: 3em;
+  right: 1em;
   display: none;
   z-index: 2;
 }
