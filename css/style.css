@@ -72,11 +72,6 @@ nav {
   top: 2em;
   right: 3em;
   left: auto;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-size: 0.75em;
-  font-family: "Montserrat", "Roboto", "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: bold;
 }
 
 nav ul {
@@ -88,20 +83,68 @@ nav ul li {
 }
 
 nav a {
+  letter-spacing: 0.1em;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  font-family: "Montserrat", "Roboto", "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
   color: white;
   margin-left: 2em;
   padding-bottom: 2.5px;
 }
 
-@media only screen and (max-width: 640px) {
-  nav ul li {
-    display: block;
-    padding-bottom: 0.75em;
+.nav-toggle {
+  position: fixed;
+  top: 2em;
+  right: 3em;
+  display: none;
+  z-index: 2;
+}
+
+.nav-line {
+  height: 2.5px;
+  width: 20px;
+  background: white;
+  display: block;
+  margin-bottom: 4px;
+}
+
+.nav-open {
+  transform: translateX(0);
+}
+
+@media only screen and (max-width: 950px) {
+  .nav-toggle {
+    display: inline-block;
   }
 
-  nav ul li a {
+  nav {
+    display: block;
+    top: 0;
+    right: 0;
+    height: 100%;
+    max-width: 180px;
+    width: 100%;
+    background: #383838;
+    z-index: 1;
+    padding-top: 4em;
+    transition: transform 200ms ease-in-out;
+    transform: translateX(100%);
+  }
+
+  nav li a {
+    display: block;
+    padding: 1em 0 1em 1em;
     margin-left: 0;
-    padding-bottom: 0;
+    letter-spacing: initial;
+    font-size: 1em;
+    text-transform: none;
+    font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    transition: background 200ms ease-in-out;
+  }
+
+  nav li a:hover {
+    background: #444444
   }
 }
 
@@ -653,4 +696,13 @@ blockquote {
   position: absolute;
   bottom: 0;
   width: 100%;
+}
+
+/**
+ * Updates page styles
+ */
+
+#updates li {
+  line-height: 1.45;
+  margin-bottom: 1em;
 }
