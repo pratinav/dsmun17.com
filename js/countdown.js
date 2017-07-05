@@ -32,6 +32,7 @@ function initializeCountdown(id, deadline) {
 
         if(time.total <= 0){
             clearInterval(timeInterval);
+            document.getElementById(id).style.display = "none";
         }
     }
 
