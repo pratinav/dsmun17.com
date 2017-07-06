@@ -1,21 +1,21 @@
 * {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
 body {
-  font: 16px "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #222;
-  line-height: 1;
   background: url(/images/bg.jpg) center fixed;
   background-size: cover;
+  color: #222222;
+  font: 16px "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1;
 }
 
 .container {
-  max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
+  max-width: 1000px;
 }
 
 a {
@@ -38,29 +38,29 @@ h1 {
 }
 
 h3 {
-  font-weight: bold;
   font-family: "Montserrat", "Roboto", "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  font-weight: bold;
   letter-spacing: 0.1em;
+  text-transform: uppercase;
 }
 
 h4 {
-  font-weight: 400;
   font-size: 1.5em;
+  font-weight: 400;
 }
 
 hr {
-  width: 2em;
   border-color: #1086d6;
   margin: 1em 0;
+  width: 2em;
 }
 
 .btn {
   border: 1px solid #1086d6;
   border-radius: 0.25em;
   color: #1086d6;
-  padding: 0.65em 1.5em;
   cursor: pointer;
+  padding: 0.65em 1.5em;
 }
 
 .clear-header {
@@ -68,10 +68,10 @@ hr {
 }
 
 nav {
-  position: absolute;
-  top: 2em;
-  right: 3em;
   left: auto;
+  position: absolute;
+  right: 3em;
+  top: 2em;
 }
 
 nav ul {
@@ -83,30 +83,30 @@ nav ul li {
 }
 
 nav a {
-  letter-spacing: 0.1em;
-  font-size: 0.75em;
-  text-transform: uppercase;
-  font-family: "Montserrat", "Roboto", "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: bold;
   color: white;
+  font-family: "Montserrat", "Roboto", "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.75em;
+  font-weight: bold;
+  letter-spacing: 0.1em;
   margin-left: 2em;
   padding-bottom: 2.5px;
+  text-transform: uppercase;
 }
 
 .nav-toggle {
-  position: fixed;
-  top: 2em;
-  right: 1em;
   display: none;
+  position: fixed;
+  right: 1em;
+  top: 2em;
   z-index: 2;
 }
 
 .nav-line {
-  height: 2.5px;
-  width: 20px;
   background: white;
   display: block;
+  height: 2.5px;
   margin-bottom: 4px;
+  width: 20px;
 }
 
 .nav-open {
@@ -119,28 +119,28 @@ nav a {
   }
 
   nav {
-    position: fixed;
+    background: #383838;
     display: block;
-    top: 0;
-    right: 0;
     height: 100%;
     max-width: 180px;
-    width: 100%;
-    background: #383838;
-    z-index: 1;
     padding-top: 4em;
-    transition: transform 200ms ease-in-out;
+    position: fixed;
+    right: 0;
+    top: 0;
     transform: translateX(100%);
+    transition: transform 200ms ease-in-out;
+    width: 100%;
+    z-index: 1;
   }
 
   nav li a {
     display: block;
-    padding: 1em 0 1em 1em;
-    margin-left: 0;
-    letter-spacing: initial;
-    font-size: 1em;
-    text-transform: none;
     font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    letter-spacing: initial;
+    margin-left: 0;
+    padding: 1em 0 1em 1em;
+    text-transform: none;
     transition: background 200ms ease-in-out;
   }
 
@@ -150,38 +150,38 @@ nav a {
 }
 
 .nav-wrapper {
-  position: relative;
   color: white;
+  position: relative;
 }
 
 .logo {
+  height: auto;
+  left: 3em;
   position: absolute;
   top: 1em;
-  left: 3em;
   width: 65px;
-  height: auto;
 }
 
 .panel {
   background: rgba(255, 255, 255, 0.825);
-  padding: 4em;
-  margin-top: 4em;
   margin-bottom: 4em;
+  margin-top: 4em;
+  padding: 4em;
   width: 92.5%;
 }
 
 .feature:after {
+  clear: both;
   content: "";
   display: table;
-  clear: both;
 }
 
 .feature-item {
-  width: 32.5%;
   float: left;
   margin-right: 1%;
   padding: 3em 1.5em;
   text-align: center;
+  width: 32.5%;
 }
 
 .feature-item:last-child {
@@ -190,9 +190,9 @@ nav a {
 
 @media only screen and (max-width: 800px) {
   .feature-item {
-    width: 100%;
-    margin-left: 0;
     margin-bottom: 1em;
+    margin-left: 0;
+    width: 100%;
   }
   .feature-item:last-child {
     margin-bottom: 0;
@@ -204,13 +204,13 @@ nav a {
 }
 
 .feature-item svg {
+  height: auto;
   margin-bottom: 1em;
   width: 2em;
-  height: auto;
 }
 
 .feature-item p {
-  color: #666;
+  color: #666666;
 }
 
 .feature-item path {
@@ -218,48 +218,48 @@ nav a {
 }
 
 .grid-item {
-  width: 33%;
+  cursor: pointer;
   float: left;
   height: 176px;
   position: relative;
-  cursor: pointer;
+  width: 33%;
 }
 
 @media only screen and (max-width: 960px) {
   .grid-item {
-    width: 50%;
     height: 256px;
+    width: 50%;
   }
 }
 
 @media only screen and (max-width: 660px) {
   .grid-item {
-    width: 100%;
     height: 256px;
+    width: 100%;
   }
 }
 
 #committees .grid-item:after {
-  background: rgba(34, 34, 34, 0.8);
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  display: flex;
   align-items: center;
-  justify-content: center;
+  background: rgba(34, 34, 34, 0.8);
+  bottom: 0;
   color: #cccfd2;
-  line-height: 1.3;
-  text-transform: uppercase;
-  text-align: center;
-  font-size: 0.75em;
+  display: flex;
   font-family: "Montserrat", "Roboto", "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.75em;
   font-weight: bold;
+  justify-content: center;
+  left: 0;
   letter-spacing: 0.1em;
+  line-height: 1.3;
   opacity: 1;
-  transition: all 200ms;
   padding: 0 0.25em;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  text-transform: uppercase;
+  top: 0;
+  transition: all 200ms;
 }
 
 #committees .grid-item:hover:after {
@@ -267,9 +267,9 @@ nav a {
 }
 
 .grid:after {
+  clear: both;
   content: "";
   display: table;
-  clear: both;
 }
 
 /**
@@ -277,9 +277,9 @@ nav a {
  */
 
 footer {
-  padding: 5em 0;
-  background: #222;
+  background: #222222;
   color: white;
+  padding: 5em 0;
 }
 
 footer a {
@@ -290,9 +290,9 @@ footer .container {
   position: relative;
 }
 footer .social {
+  bottom: 0;
   position: absolute;
   right: 20px;
-  bottom: 0;
 }
 footer .social a {
   display: inline-block;
@@ -302,10 +302,10 @@ footer .social a:first-child {
   margin-left: 0;
 }
 footer .social svg {
-  width: 1em;
   height: 1em;
   opacity: 0.5;
   transition: opacity 200ms;
+  width: 1em;
 }
 footer .social svg:hover {
   opacity: 1;
@@ -323,8 +323,8 @@ html#Home, html#Home body {
 }
 
 .landing {
-  height: 100%;
   color: white;
+  height: 100%;
 }
 
 .landing .hero-intro {
@@ -340,9 +340,9 @@ html#Home, html#Home body {
 blockquote {
   font-family: "Georgia", serif;
   font-style: italic;
-  width: 100%;
-  text-align: center;
   margin-top: 1em;
+  text-align: center;
+  width: 100%;
 }
 
 #committees a:nth-child(1)  .grid-item {
@@ -573,22 +573,22 @@ blockquote {
 }
 
 #contact form input, #contact form textarea {
-  font: inherit;
-  color: black;
   background: none;
   border: none;
-  border-radius: 0;
   border-bottom: 1.5px solid #1086d6;
+  border-radius: 0;
+  color: black;
   display: block;
-  padding: 0.5em 0;
+  font: inherit;
   margin-bottom: 2em;
-  transition: opacity 200ms;
   opacity: 0.70;
+  padding: 0.5em 0;
+  transition: opacity 200ms;
 }
 
 #contact form input:focus, #contact form textarea:focus {
-  outline: none;
   opacity: 1;
+  outline: none;
 }
 
 #contact form input:hover, #contact form input:active, #contact form textarea:hover, #contact form textarea:active {
@@ -596,8 +596,8 @@ blockquote {
 }
 
 #contact form input {
-  width: 47.5%;
   float: left;
+  width: 47.5%;
 }
 
 #contact form input[name="name"] {
@@ -605,19 +605,19 @@ blockquote {
 }
 
 #contact form textarea {
-  width: 100%;
   height: 100px;
+  width: 100%;
 }
 
 #contact form .btn {
   border: 1px solid #1086d6;
   border-radius: 0.25em;
-  width: auto;
-  float: none;
-  display: inline-block;
-  padding: 0.5em 1.5em;
-  cursor: pointer;
   color: #1086d6;
+  cursor: pointer;
+  display: inline-block;
+  float: none;
+  padding: 0.5em 1.5em;
+  width: auto;
 }
 
 /**
@@ -629,8 +629,8 @@ blockquote {
 }
 
 #committee li {
-  margin-bottom: 0.5em;
   line-height: 1.45;
+  margin-bottom: 0.5em;
 }
 
 #committee ul {
@@ -645,16 +645,16 @@ blockquote {
   float: right;
   margin-bottom: 1em;
   margin-left: 1em;
-  width: 100%;
   max-width: 400px;
+  width: 100%;
 }
 
 #about_others .chair_img {
+  display: inline-block;
   float: none;
   margin: 0;
-  display: inline-block;
-  width: 48%;
   max-width: none;
+  width: 48%;
 }
 
 #about_others .chair_img:first-child {
@@ -667,14 +667,14 @@ blockquote {
   }
 
   #about_others .chair_img:first-child {
-    margin-right: 0;
     margin-bottom: 1em;
+    margin-right: 0;
   }
 }
 
 .chair_img img {
-  width: 100%;
   height: auto;
+  width: 100%;
 }
 
 @media only screen and (max-width: 416px) {
@@ -694,8 +694,8 @@ blockquote {
  */
 
 #thanks + footer {
-  position: absolute;
   bottom: 0;
+  position: absolute;
   width: 100%;
 }
 
@@ -727,11 +727,11 @@ blockquote {
 
 #countdown {
   display: inline-block;
-  text-align: center;
   font-family: sans-serif;
   font-size: 2rem;
   font-weight: 100;
   position: absolute;
+  text-align: center;
   top: 57%;
   width: 100%;
 }
