@@ -572,7 +572,8 @@ blockquote {
   max-width: 600px;
 }
 
-#contact form input, #contact form textarea {
+#contact form input,
+#contact form textarea {
   background: none;
   border: none;
   border-bottom: 1.5px solid #1086d6;
@@ -586,12 +587,16 @@ blockquote {
   transition: opacity 200ms;
 }
 
-#contact form input:focus, #contact form textarea:focus {
+#contact form input:focus,
+#contact form textarea:focus {
   opacity: 1;
   outline: none;
 }
 
-#contact form input:hover, #contact form input:active, #contact form textarea:hover, #contact form textarea:active {
+#contact form input:hover,
+#contact form input:active,
+#contact form textarea:hover,
+#contact form textarea:active {
   opacity: 1;
 }
 
@@ -727,7 +732,7 @@ blockquote {
 
 #countdown {
   display: inline-block;
-  font-family: sans-serif;
+  font-family: inherit;
   font-size: 2rem;
   font-weight: 100;
   position: absolute;
