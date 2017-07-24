@@ -8,7 +8,7 @@ layout: default
     <img src="{{ site.baseurl }}/images/chairpersons/{{ page.name | remove: 'md' }}jpg">
     <figcaption>
       {{ page.chair }}<br>
-      <a href="mailto:chair.{{ page.name | remove: 'md' }}@doonschool.com">chair.{{ page.name | remove: 'md' }}@doonschool.com</a>
+      <a href="mailto:chair.{% if page.email != null %}{{ page.email }}{% else %}{{ page.name | remove: 'md' }}{% endif %}@doonschool.com">chair.{{ page.name | remove: 'md' }}@doonschool.com</a>
     </figcaption>
   </figure>
   {{ content }}
