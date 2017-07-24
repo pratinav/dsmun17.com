@@ -2,7 +2,7 @@
 permalink: /committees/unfccc/
 title: United Nations Framework Convention on Climate Change
 chair: Adityavardhan Agrawal
-email:fcc
+email: fcc
 ---
 
 Dear Delegates,
