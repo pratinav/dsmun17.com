@@ -6,7 +6,10 @@ layout: default
   <hr>
   <figure class="chair_img">
     <img src="{{ site.baseurl }}/images/chairpersons/{{ page.name | remove: 'md' }}jpg">
-    <figcaption>{{ page.chair }}</figcaption>
+    <figcaption>
+      {{ page.chair }}<br>
+      <a href="mailto:chair.{% if page.email != null %}{{ page.email }}{% else %}{{ page.name | remove: '.md' }}{% endif %}@doonschool.com">chair.{% if page.email != null %}{{ page.email }}{% else %}{{ page.name | remove: '.md' }}{% endif %}@doonschool.com</a>
+    </figcaption>
   </figure>
   {{ content }}
   <br>
