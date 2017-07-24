@@ -2,6 +2,7 @@
 permalink: /committees/unhsc/
 title: United Nations Historical Security Council
 chair: Ishan Jhawar
+email: hsc
 ---
 
 Hello delegates,
