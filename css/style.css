@@ -760,3 +760,11 @@ blockquote {
   font-size: 1rem;
   padding-top: 0.25rem;
 }
+
+/**
+ * Gallery styles
+ */
+
+#gallery .grid-item {
+    cursor: default;
+}
