@@ -23,7 +23,7 @@ Looking forward to meeting you and, more importantly, working together at the co
 À bientôt!
 
 ### Deputy Chairpersons
-<hr>
+
 
 - Kanishkh Kanodia
 - Amal Bansode

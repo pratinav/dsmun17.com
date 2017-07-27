@@ -20,7 +20,7 @@ All that is left is for me is to wish you luck with your preparations and remind
 I look forward to working with each one of you this fall!
 
 ### Deputy Chairpersons
-<hr>
+
 
 - Armaan Verma
 - Devansh Mittal

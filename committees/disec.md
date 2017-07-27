@@ -26,7 +26,6 @@ I urge delegates to know their agendas well as my deputy chairpersons—Aayush C
 Lastly, I reiterate, I expect the highest level of debate in hope of reaching a plausible conclusion but, above all, I hope that all of you have a memorable time at Chandbagh and return wiser.
 
 ### Deputy Chairpersons
-<hr>
 
 - Aayush Choudhary
 - Aditya Gupta

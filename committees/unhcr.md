@@ -26,7 +26,7 @@ I hope you enjoy your time at Chandbagh and look forward to meeting the delegate
 
 
 ### Deputy Chairpersons
-<hr>
+
 
 - Samar Mundi
 - Darsh Garg

@@ -21,7 +21,7 @@ Together, let’s make DSMUN great again!
 Archit Barthwal (As Prez. Donald J. Trump)
 
 ### Deputy Chairpersons
-<hr>
+
 
 - Pritish Dugar
 - Yash Dewan

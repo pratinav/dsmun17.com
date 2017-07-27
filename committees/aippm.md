@@ -24,7 +24,6 @@ Shikhar Trivedi
 
 
 ### Deputy chairpersons
-<hr>
 
 - Naman Khurana
 - Abhyanshu Uttkarsh

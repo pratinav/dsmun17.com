@@ -24,7 +24,7 @@ Sincerely,
 Chairperson of UNMSC
 
 ### Deputy Chairpersons
-<hr>
+
 
 - Gunvir Paintal
 - Ratna Chawda

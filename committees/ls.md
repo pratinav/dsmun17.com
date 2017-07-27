@@ -20,7 +20,7 @@ I must remind you that as an MP, etiquette and decorum in the House is absolutel
 Raihan Vadra
 
 ### Deputy Chairpersons
-<hr>
+
 
 - Sanidhya Mittal
 - Zohravar Bhatti
