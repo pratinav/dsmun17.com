@@ -28,7 +28,7 @@ Vathsal K. Gupta
 
 
 ### Deputy Chairpersons
-<hr>
+
 
 - Anant Jain
 - Shiven Dewan

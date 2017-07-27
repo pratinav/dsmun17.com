@@ -49,10 +49,14 @@ h4 {
   font-weight: 400;
 }
 
-hr {
-  border-color: #1086d6;
-  margin: 1em 0;
-  width: 2em;
+h3::after {
+  border: 1px solid #1086d6;
+  border-style: inset;
+  content: '';
+  display: block;
+  margin: 1rem 0;
+  position: relative;
+  width: 30px;
 }
 
 .btn {

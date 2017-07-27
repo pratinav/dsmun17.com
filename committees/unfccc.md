@@ -26,7 +26,7 @@ Adityavardhan Agrawal
 
 
 ### Deputy Chairpersons
-<hr>
+
 
 - Lakshman Santhanam
 - Kushagra Kar

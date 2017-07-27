@@ -27,7 +27,7 @@ Harshit Bansal
 
 
 ### Deputy Chairpersons
-<hr>
+
 
 - Rajveer Kocchar
 - Milind Khemka
