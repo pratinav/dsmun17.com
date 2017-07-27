@@ -9,7 +9,7 @@ Hello delegates,
 
 Welcome to the Historic Security Council at DSMUN 2017.
 
-My name is Ishan Jhawar and I am honored to be your chairperson this year. I'm in the twelfth standard and pursuing (atleast trying to pursue) the International Baccalaureate.  
+My name is Ishan Jhawar and I am honored to be your chairperson this year. I'm in the twelfth standard and pursuing (at least trying to pursue) the International Baccalaureate.  
 
 My journey in MUNing began as a mere chitboy at DSMUN. I have ever since been in love with the heated debate, dynamics, tensions and diplomacy involved in it and am now an avid MUNner. It is my first time as a chairperson and I aim to create an unforgettable experience for you all at DSMUN, this year!
 
@@ -23,17 +23,17 @@ Agendas for this year's UNHSC are:
 I am extremely excited to be heading the Historical Security council this year, and I expect a high level of research and preparation from the delegates. The agendas selected for this year are undoubtedly going to challenge the delegates on a myriad of levels and hopefully, be exciting and engaging at the same time. I look forward to skillful diplomacy and heated debate in Committee.
 
 Do feel free to reach out to me for any and all concerns you may have.
-I can’t wait to meet you all at Chandgbagh this year!
+I can’t wait to meet you all at Chandbagh this year!
 
 Sincerely,
 
 Ishan Jhawar
 
-Chairperson, Historic Security Council.
+Chairperson, Historic Security Council
 
 
-> “History, despite its wrenching pain, cannot be unlived, but if faced with courage, need not be lived again.”
-  — Maya Angelou
+> "History, despite its wrenching pain, cannot be unlived, but if faced with courage, need not be lived again."
+  —Maya Angelou
 
 
 ### Deputy Chairpersons
