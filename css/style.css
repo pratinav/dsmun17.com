@@ -292,28 +292,31 @@ footer a {
 
 footer .container {
   position: relative;
+  width: 85%;
 }
+
 footer .social {
-  bottom: 0;
-  position: absolute;
-  right: 20px;
+    margin-top: 1em;
 }
+
 footer .social a {
   display: inline-block;
   margin-left: 1em;
 }
+
 footer .social a:first-child {
   margin-left: 0;
 }
+
 footer .social svg {
-  height: 1em;
   opacity: 0.5;
   transition: opacity 200ms;
-  width: 1em;
 }
+
 footer .social svg:hover {
   opacity: 1;
 }
+
 footer .social svg path {
   fill: white;
 }
