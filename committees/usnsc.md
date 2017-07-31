@@ -22,6 +22,9 @@ Archit Barthwal (As Prez. Donald J. Trump)
 
 ### Deputy Chairpersons
 
-
 - Pritish Dugar
 - Yash Dewan
+
+### Background guide freeze date
+
+29th July, 2017
