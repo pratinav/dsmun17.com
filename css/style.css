@@ -30,9 +30,6 @@ p {
 
 h1 {
   font-weight: 600;
-}
-
-h1 {
   font-size: 2em;
   text-align: center;
 }
@@ -44,19 +41,24 @@ h3 {
   text-transform: uppercase;
 }
 
+h3::after {
+    border: 1px solid #1086d6;
+    border-style: inset;
+    content: '';
+    display: block;
+    margin: 1rem 0;
+    position: relative;
+    width: 30px;
+}
+
 h4 {
   font-size: 1.5em;
   font-weight: 400;
 }
 
-h3::after {
-  border: 1px solid #1086d6;
-  border-style: inset;
-  content: '';
-  display: block;
-  margin: 1rem 0;
-  position: relative;
-  width: 30px;
+li {
+  line-height: 1.45;
+  margin-bottom: 1em;
 }
 
 .btn {
@@ -84,6 +86,8 @@ nav ul {
 
 nav ul li {
   display: inline;
+  line-height: inherit;
+  margin: 0;
 }
 
 nav a {
@@ -284,6 +288,10 @@ footer {
   background: #222222;
   color: white;
   padding: 5em 0;
+  /* make sticky */
+  bottom: 0;
+  width: 100%;
+  clear: both;
 }
 
 footer a {
@@ -571,10 +579,6 @@ blockquote {
   list-style-type: none;
 }
 
-#contact li {
-  margin-bottom: 0.5em;
-}
-
 #contact form {
   max-width: 600px;
 }
@@ -641,7 +645,6 @@ blockquote {
 }
 
 #committee li {
-  line-height: 1.45;
   margin-bottom: 0.5em;
 }
 
@@ -699,25 +702,6 @@ blockquote {
   color: gray;
   margin: 0.5em 0;
   text-align: center;
-}
-
-/**
- * Thanks page styles
- */
-
-#thanks + footer {
-  bottom: 0;
-  position: absolute;
-  width: 100%;
-}
-
-/**
- * Updates page styles
- */
-
-#updates li {
-  line-height: 1.45;
-  margin-bottom: 1em;
 }
 
 /**
