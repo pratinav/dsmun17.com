@@ -1,103 +1,139 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-<url>
-  <loc>http://dsmun17.com/</loc>
-  <lastmod>2017-05-31T10:20:39+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/#committees</loc>
-  <lastmod>2017-05-31T10:20:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/about-the-eb/</loc>
-  <lastmod>2017-05-31T10:04:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/gallery/</loc>
-  <lastmod>2017-05-31T10:20:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/contact/</loc>
-  <lastmod>2017-05-31T10:20:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/committees/unsc/</loc>
-  <lastmod>2017-05-31T10:20:45+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/committees/disec/</loc>
-  <lastmod>2017-05-31T10:20:40+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/committees/ipc/</loc>
-  <lastmod>2017-05-31T10:20:41+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/committees/ls/</loc>
-  <lastmod>2017-05-31T10:20:41+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/committees/scrt/</loc>
-  <lastmod>2017-05-31T10:20:42+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/committees/specpol/</loc>
-  <lastmod>2017-05-31T10:20:42+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/committees/unfccc/</loc>
-  <lastmod>2017-05-31T10:20:43+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/committees/unhcr/</loc>
-  <lastmod>2017-05-31T10:20:43+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/committees/unhrc/</loc>
-  <lastmod>2017-05-31T10:20:44+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/committees/unhsc/</loc>
-  <lastmod>2017-05-31T10:20:44+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/committees/unmsc/</loc>
-  <lastmod>2017-05-31T10:20:45+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/committees/usnsc/</loc>
-  <lastmod>2017-05-31T10:20:46+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/committees/unw/</loc>
-  <lastmod>2017-05-31T10:20:46+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://dsmun17.com/committees/aippm/</loc>
-  <lastmod>2017-05-31T10:20:40+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>http://dsmun17.com/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/committees/usnsc/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/committees/aippm/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/committees/unw/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/committees/unhrc/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/committees/unhsc/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/committees/specpol/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/committees/unmsc/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/committees/ipc/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/committees/unhcr/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/committees/scrt/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/committees/unfccc/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/committees/ls/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/committees/disec/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/committees/unsc/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/bgs/ipc.pdf</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/bgs/unmsc.pdf</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/bgs/usnsc.pdf</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/bgs/specpol.pdf</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/bgs/unhsc.pdf</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/bgs/aippm.pdf</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/bgs/unhrc.pdf</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/bgs/unw.pdf</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/bgs/unhcr.pdf</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/bgs/unsc.pdf</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/bgs/scrt.pdf</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/bgs/ls.pdf</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/bgs/disec.pdf</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/bgs/unfccc.pdf</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/about-the-eb/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/gallery/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/updates/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/contact/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/Conference-Schedule-DSMUN-17.pdf</loc>
+    <priority>0.8</priority>
+  </url>
 </urlset>
