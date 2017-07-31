@@ -697,7 +697,7 @@ blockquote {
 
 .chair_img figcaption {
   color: gray;
-  margin-top: 0.5em;
+  margin: 0.5em 0;
   text-align: center;
 }
 
