@@ -2,6 +2,7 @@
 permalink: /committees/usnsc/
 title: United States National Security Council
 chair: Archit Barthwal
+groupid: 269378340212497/
 ---
 
 Greetings Delegates!

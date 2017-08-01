@@ -2,6 +2,7 @@
 title: All India Political Parties Meet 2002
 permalink: /committees/aippm/
 chair: Shikhar Trivedi
+groupid: 606219333099538/
 ---
 
 Namaste Delegates!

@@ -735,6 +735,15 @@ blockquote {
   text-align: center;
 }
 
+#committee .fb {
+  position: relative;
+  top: 3px;
+}
+
+#committee .fb path {
+  fill: currentColor;
+}
+
 /**
  * Countdown styles
  */
