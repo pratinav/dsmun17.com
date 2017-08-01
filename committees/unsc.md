@@ -3,6 +3,7 @@ permalink: /committees/unsc/
 title: United Nations Security Council
 chair: Arjun Singh
 email: sc
+groupid: 1930867030530053/
 ---
 
 Greetings Delegates!
