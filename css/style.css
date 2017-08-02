@@ -245,6 +245,7 @@ nav a {
     margin-left: 0;
     width: 100%;
   }
+
   .feature-item:last-child {
     margin-bottom: 0;
   }
@@ -689,20 +690,21 @@ blockquote {
  * Committee page styles
  */
 
-#committee hr + ul {
-  list-style-type: none;
-}
 
 #committee li {
   margin-bottom: 0.5em;
 }
 
-#committee ul {
-  margin-bottom: 1.5em;
+#committee p + ul {
+    margin-bottom: 1.5em;
 }
 
 #deputy-chairpersons {
   margin-top: 2em;
+}
+
+#deputy-chairpersons + ul {
+  list-style-type: none;
 }
 
 .chair_img {
