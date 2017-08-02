@@ -9,7 +9,9 @@
   src: local('Montserrat Bold'), local('Montserrat-Bold'), url(https://fonts.gstatic.com/s/montserrat/v10/IQHow_FEYlDC4Gzy_m8fcoWiMMZ7xLd792ULpGE4W_Y.woff2)
   format('woff2');
 unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
-}@font-face {
+}
+
+@font-face {
   font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 400;
@@ -96,7 +98,12 @@ li {
   border-radius: 0.25em;
   color: #1086d6;
   cursor: pointer;
+  margin-right: 0.5em;
   padding: 0.65em 1.5em;
+}
+
+.buttons-list {
+  list-style: none;
 }
 
 .clear-header {
@@ -333,7 +340,7 @@ footer .container {
 }
 
 footer .social {
-    margin-top: 1em;
+  margin-top: 1em;
 }
 
 footer .social a {
@@ -733,15 +740,6 @@ blockquote {
   color: gray;
   margin: 0.5em 0;
   text-align: center;
-}
-
-#committee .fb {
-  position: relative;
-  top: 3px;
-}
-
-#committee .fb path {
-  fill: currentColor;
 }
 
 /**
