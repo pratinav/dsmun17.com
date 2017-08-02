@@ -98,12 +98,18 @@ li {
   border-radius: 0.25em;
   color: #1086d6;
   cursor: pointer;
+  display: inline-block;
   margin-right: 0.5em;
+  margin-bottom: 0.5em !important;
   padding: 0.65em 1.5em;
 }
 
 .buttons-list {
   list-style: none;
+}
+
+.buttons-list li {
+  display: inline;
 }
 
 .clear-header {

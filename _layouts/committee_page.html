@@ -14,11 +14,13 @@ layout: default
   <br>
   <ul class="buttons-list">
     <li>
-      <a href="{{ site.baseurl }}/bgs/{{ page.name | remove: 'md' }}pdf" class="btn" target="_blank" rel="noopener noreferrer">Background Guide</a>
-      {% if page.groupid != null %}
-      <a href="https://www.facebook.com/groups/{{ page.groupid }}" class="btn" target="_blank" rel="noopener noreferrer">Join the facebook group</a>
-      {% endif %}
+      <a class="btn" href="{{ site.baseurl }}/bgs/{{ page.name | remove: 'md' }}pdf" target="_blank" rel="noopener noreferrer">Background Guide</a>
     </li>
+    {% if page.groupid != null %}
+    <li>
+      <a class="btn" href="https://www.facebook.com/groups/{{ page.groupid }}" target="_blank" rel="noopener noreferrer">Join the facebook group</a>
+    </li>
+    {% endif %}
   </ul>
 
 </section>
