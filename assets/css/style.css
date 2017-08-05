@@ -133,6 +133,18 @@ nav ul li {
   margin: 0;
 }
 
+.attention::after {
+  background: red;
+  border-radius: 50%;
+  content: '';
+  display: inline-block;
+  height: 12px;
+  position: relative;
+  top: -4px;
+  width: 12px;
+  z-index: -1;
+}
+
 nav a {
   color: white;
   font-family: "Montserrat", "Roboto", "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
