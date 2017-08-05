@@ -61,59 +61,59 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://dsmun17.com/bgs/ipc.pdf</loc>
+    <loc>http://dsmun17.com/assets/bgs/ipc.pdf</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://dsmun17.com/bgs/unmsc.pdf</loc>
+    <loc>http://dsmun17.com/assets/bgs/unmsc.pdf</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://dsmun17.com/bgs/usnsc.pdf</loc>
+    <loc>http://dsmun17.com/assets/bgs/usnsc.pdf</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://dsmun17.com/bgs/specpol.pdf</loc>
+    <loc>http://dsmun17.com/assets/bgs/specpol.pdf</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://dsmun17.com/bgs/unhsc.pdf</loc>
+    <loc>http://dsmun17.com/assets/bgs/unhsc.pdf</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://dsmun17.com/bgs/aippm.pdf</loc>
+    <loc>http://dsmun17.com/assets/bgs/aippm.pdf</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://dsmun17.com/bgs/unhrc.pdf</loc>
+    <loc>http://dsmun17.com/assets/bgs/unhrc.pdf</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://dsmun17.com/bgs/unw.pdf</loc>
+    <loc>http://dsmun17.com/assets/bgs/unw.pdf</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://dsmun17.com/bgs/unhcr.pdf</loc>
+    <loc>http://dsmun17.com/assets/bgs/unhcr.pdf</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://dsmun17.com/bgs/unsc.pdf</loc>
+    <loc>http://dsmun17.com/assets/bgs/unsc.pdf</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://dsmun17.com/bgs/scrt.pdf</loc>
+    <loc>http://dsmun17.com/assets/bgs/scrt.pdf</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://dsmun17.com/bgs/ls.pdf</loc>
+    <loc>http://dsmun17.com/assets/bgs/ls.pdf</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://dsmun17.com/bgs/disec.pdf</loc>
+    <loc>http://dsmun17.com/assets/bgs/disec.pdf</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://dsmun17.com/bgs/unfccc.pdf</loc>
+    <loc>http://dsmun17.com/assets/bgs/unfccc.pdf</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -133,7 +133,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://dsmun17.com/Conference-Schedule-DSMUN-17.pdf</loc>
+    <loc>http://dsmun17.com/assets/Conference-Schedule-DSMUN-17.pdf</loc>
     <priority>0.8</priority>
   </url>
 </urlset>

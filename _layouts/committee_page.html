@@ -4,7 +4,7 @@ layout: default
 <section id="committee" class="container panel clear-header">
   <h3>{{ page.title }}</h3>
   <figure class="chair_img">
-    <img src="{{ site.baseurl }}/images/chairpersons/{{ page.name | remove: 'md' }}jpg">
+    <img src="{{ site.baseurl }}/assets/images/chairpersons/{{ page.name | remove: 'md' }}jpg">
     <figcaption>
       {{ page.chair }}<br>
       <a href="mailto:chair.{% if page.email != null %}{{ page.email }}{% else %}{{ page.name | remove: '.md' }}{% endif %}@doonschool.com">chair.{% if page.email != null %}{{ page.email }}{% else %}{{ page.name | remove: '.md' }}{% endif %}@doonschool.com</a>
@@ -14,7 +14,7 @@ layout: default
   <br>
   <ul class="buttons-list">
     <li>
-      <a class="btn" href="{{ site.baseurl }}/bgs/{{ page.name | remove: 'md' }}pdf" target="_blank" rel="noopener noreferrer">Background Guide</a>
+      <a class="btn" href="{{ site.baseurl }}/assets/bgs/{{ page.name | remove: 'md' }}pdf" target="_blank" rel="noopener noreferrer">Background Guide</a>
     </li>
     {% if page.groupid != null %}
     <li>
@@ -22,5 +22,4 @@ layout: default
     </li>
     {% endif %}
   </ul>
-
 </section>
