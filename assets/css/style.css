@@ -489,7 +489,7 @@ blockquote {
 }
 
 #committees a:nth-child(8) .grid-item:after {
-  content: "united nations high commission for refugees";
+  content: "united nations high commissioner for refugees";
 }
 
 #committees a:nth-child(9)  .grid-item {

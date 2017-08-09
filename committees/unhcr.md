@@ -1,13 +1,13 @@
 ---
 permalink: /committees/unhcr/
-title: United Nations High Commission For Refugees
+title: United Nations High Commissioner For Refugees
 chair: Zoraver Mehta
 email: hcr
 ---
 
 Greetings Delegates,
 
-As the chairperson of the High Commission for Refugees, it gives me immense pleasure to welcome you all to the Doon School Model United Nations Conference, 2017.
+As the chairperson of the High Commissioner for Refugees, it gives me immense pleasure to welcome you all to the Doon School Model United Nations Conference, 2017.
 
 The Office of the United Nations High Commissioner for Refugees was established on December 14, 1950 by the General Assembly. The committee is required to lead and co-ordinate international action to protect refugees and resolve refugee problems worldwide. It is mandated to safeguard the rights and wellbeing of refugees.
 
