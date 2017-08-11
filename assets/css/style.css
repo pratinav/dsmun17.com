@@ -564,7 +564,9 @@ blockquote {
 
 /* Set backgrounds for all images in '/assets/images/gallery' */
 /* Ugly formatting to avoid newlines in generated stylesheet */
-{% assign counter = 0 %}{% for image in site.static_files %}{% if image.path contains 'assets/images/gallery' %}{% assign counter = counter | plus: 1 %}
+/* Only .jpg(case sensitive) images will turn up */
+
+{% assign counter = 0 %}{% for image in site.static_files %}{% if image.path contains 'assets/images/gallery' and image.path contains '.jpg' %}{% assign counter = counter | plus: 1 %}
 #gallery .grid-item:nth-child({{ counter }}) {
   background: url({{ image.path }}) center;
   background-size: cover;
