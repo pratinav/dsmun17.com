@@ -25,8 +25,10 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="{{ site.baseurl }}/assets/favicon/mstile-144x144.png">
 
-  <!-- redirect -->
   {% if page.redirect-url != null %}
+  <!-- redirect -->
   <meta http-equiv="refresh" content="{% if page.redirect-wait == null %}0{% else %}{{ page.redirect-wait }}{% endif %}; url={{ page.redirect-url }}">
   {% endif %}
+
+  <link rel="author" href="{{ site.baseurl }}/humans.txt">
 </head>
