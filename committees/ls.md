@@ -2,13 +2,14 @@
 permalink: /committees/ls/
 title: Lok Sabha
 chair: Raihan Vadra
+groupid: 1419317478103363/
 ---
 
 Speeches are heard, Votes are taken and Laws are made! Welcome to the Lok Sabha. I am honoured and privileged to be serving as the Speaker of this historic body at DSMUN 2017.
 
 I am currently pursuing ISC Humanities in the SC Form (12th Grade). Outside the classroom, I have founded and manage I-Parliament, a youth parliament. Amongst other things, I have co-authored a research paper which has devised as a ‘Well Being Index’ for India. I also enjoy photography and shooting and am a Spurs fan.
 
-The agendas this year: 
+The agendas this year:
 
 - Section 377; and
 - Demonetisation
@@ -20,7 +21,7 @@ I must remind you that as an MP, etiquette and decorum in the House is absolutel
 Raihan Vadra
 
 ### Deputy Chairpersons
-<hr>
+
 
 - Sanidhya Mittal
 - Zohravar Bhatti

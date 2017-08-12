@@ -13,7 +13,6 @@ As ‘correspondents’ of the international press, your role will be broader th
 As Malcolm X says, “The media’s the most powerful entity on earth. They have the power to make the innocent guilty and to make the guilty innocent.” It is your duty to use this power responsibly and make logically supported judgements. You will be judged on the value of your piece and the writing skill you have employed. I hope to see some great pieces of writing in the future.
 
 ### Deputy Chairpersons
-<hr>
 
 - Tarush Bansal
 - Siddhant Singhania
