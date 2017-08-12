@@ -5,6 +5,30 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>http://dsmun17.com/#committees/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/updates/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/schedule/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/about-the-eb/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/gallery/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://dsmun17.com/contact/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://dsmun17.com/committees/usnsc/</loc>
     <priority>0.6</priority>
   </url>
@@ -115,25 +139,5 @@
   <url>
     <loc>http://dsmun17.com/assets/bgs/unfccc.pdf</loc>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/about-the-eb/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/gallery/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/updates/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/contact/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/assets/Conference-Schedule-DSMUN-17.pdf</loc>
-    <priority>0.8</priority>
   </url>
 </urlset>
