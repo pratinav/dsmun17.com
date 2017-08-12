@@ -1,4 +1,5 @@
 exclude: [".gitignore"]
+include: ["_pages", ".htaccess"]
 defaults:
   -
     values:

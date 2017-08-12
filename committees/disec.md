@@ -2,6 +2,7 @@
 permalink: /committees/disec/
 title: Disarmament and International Security Committee
 chair: Arunav Vaish
+groupid: 716166555251195/
 ---
 
 > “The Disarmament Conference has become the focal point of a great struggle between anarchy and world order… between those who think in terms of inevitable armed conflict and those who seek to build a universal and durable peace.”
@@ -26,7 +27,6 @@ I urge delegates to know their agendas well as my deputy chairpersons—Aayush C
 Lastly, I reiterate, I expect the highest level of debate in hope of reaching a plausible conclusion but, above all, I hope that all of you have a memorable time at Chandbagh and return wiser.
 
 ### Deputy Chairpersons
-<hr>
 
 - Aayush Choudhary
 - Aditya Gupta

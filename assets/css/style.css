@@ -1,3 +1,38 @@
+---
+layout: none
+---
+
+/**
+ * Font declarations
+ */
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Montserrat Bold'), local('Montserrat-Bold'), url(https://fonts.gstatic.com/s/montserrat/v10/IQHow_FEYlDC4Gzy_m8fcoWiMMZ7xLd792ULpGE4W_Y.woff2)
+  format('woff2');
+unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'),
+  url(https://fonts.gstatic.com/s/sourcesanspro/v10/ODelI1aHBYDBqgeIAH2zlNV_2ngZ8dMf8fLgjYEouxg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Source Sans Pro SemiBold'), local('SourceSansPro-SemiBold'),
+  url(https://fonts.gstatic.com/s/sourcesanspro/v10/toadOcfmlt9b38dHJxOBGCOFnW3Jk0f09zW_Yln67Ac.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -5,7 +40,7 @@
 }
 
 body {
-  background: url(/images/bg.jpg) center fixed;
+  background: url(/assets/images/bg.jpg) center fixed;
   background-size: cover;
   color: #222222;
   font: 16px "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -30,9 +65,6 @@ p {
 
 h1 {
   font-weight: 600;
-}
-
-h1 {
   font-size: 2em;
   text-align: center;
 }
@@ -40,8 +72,19 @@ h1 {
 h3 {
   font-family: "Montserrat", "Roboto", "Source Sans Pro", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
+  font-size: 1.17em;
   letter-spacing: 0.1em;
   text-transform: uppercase;
+}
+
+h3::after {
+  border: 1px solid #1086d6;
+  border-style: inset;
+  content: '';
+  display: block;
+  margin: 1rem 0;
+  position: relative;
+  width: 30px;
 }
 
 h4 {
@@ -49,10 +92,9 @@ h4 {
   font-weight: 400;
 }
 
-hr {
-  border-color: #1086d6;
-  margin: 1em 0;
-  width: 2em;
+li {
+  line-height: 1.45;
+  margin-bottom: 1em;
 }
 
 .btn {
@@ -60,7 +102,18 @@ hr {
   border-radius: 0.25em;
   color: #1086d6;
   cursor: pointer;
+  display: inline-block;
+  margin-right: 0.5em;
+  margin-bottom: 0.5em !important;
   padding: 0.65em 1.5em;
+}
+
+.buttons-list {
+  list-style: none;
+}
+
+.buttons-list li {
+  display: inline;
 }
 
 .clear-header {
@@ -80,6 +133,20 @@ nav ul {
 
 nav ul li {
   display: inline;
+  line-height: inherit;
+  margin: 0;
+}
+
+.attention::after {
+  background: red;
+  border-radius: 50%;
+  content: '';
+  display: inline-block;
+  height: 12px;
+  position: relative;
+  top: -4px;
+  width: 12px;
+  z-index: -1;
 }
 
 nav a {
@@ -147,6 +214,10 @@ nav a {
   nav li a:hover {
     background: #444444
   }
+
+  .attention::after {
+    display: none;
+  }
 }
 
 .nav-wrapper {
@@ -156,10 +227,10 @@ nav a {
 
 .logo {
   height: auto;
-  left: 3em;
+  left: 2em;
   position: absolute;
   top: 1em;
-  width: 65px;
+  width: 105px;
 }
 
 .panel {
@@ -194,6 +265,7 @@ nav a {
     margin-left: 0;
     width: 100%;
   }
+
   .feature-item:last-child {
     margin-bottom: 0;
   }
@@ -278,8 +350,11 @@ nav a {
 
 footer {
   background: #222222;
+  bottom: 0;
+  clear: both;
   color: white;
   padding: 5em 0;
+  width: 100%;
 }
 
 footer a {
@@ -288,28 +363,36 @@ footer a {
 
 footer .container {
   position: relative;
+  width: 85%;
 }
+
 footer .social {
   bottom: 0;
+  margin-top: 1em;
   position: absolute;
-  right: 20px;
+  right: 0;
 }
+
 footer .social a {
   display: inline-block;
   margin-left: 1em;
 }
+
 footer .social a:first-child {
   margin-left: 0;
 }
+
 footer .social svg {
   height: 1em;
   opacity: 0.5;
   transition: opacity 200ms;
   width: 1em;
 }
+
 footer .social svg:hover {
   opacity: 1;
 }
+
 footer .social svg path {
   fill: white;
 }
@@ -346,7 +429,7 @@ blockquote {
 }
 
 #committees a:nth-child(1)  .grid-item {
-  background: url(/images/committee_thumbs/bg1.jpg) center;
+  background: url(/assets/images/committee_thumbs/unsc.jpg) center;
   background-size: cover;
 }
 
@@ -355,7 +438,7 @@ blockquote {
 }
 
 #committees a:nth-child(2)  .grid-item {
-  background: url(/images/committee_thumbs/bg2.jpg) center;
+  background: url(/assets/images/committee_thumbs/disec.jpg) center;
   background-size: cover;
 }
 
@@ -364,7 +447,7 @@ blockquote {
 }
 
 #committees a:nth-child(3)  .grid-item {
-  background: url(/images/committee_thumbs/bg3.jpg) center;
+  background: url(/assets/images/committee_thumbs/ipc.jpg) center;
   background-size: cover;
 }
 
@@ -373,7 +456,7 @@ blockquote {
 }
 
 #committees a:nth-child(4)  .grid-item {
-  background: url(/images/committee_thumbs/bg4.jpg) center;
+  background: url(/assets/images/committee_thumbs/ls.jpg) center;
   background-size: cover;
 }
 
@@ -382,7 +465,7 @@ blockquote {
 }
 
 #committees a:nth-child(5)  .grid-item {
-  background: url(/images/committee_thumbs/bg5.jpg) center;
+  background: url(/assets/images/committee_thumbs/scrt.jpg) center;
   background-size: cover;
 }
 
@@ -391,7 +474,7 @@ blockquote {
 }
 
 #committees a:nth-child(6)  .grid-item {
-  background: url(/images/committee_thumbs/bg6.jpg) center;
+  background: url(/assets/images/committee_thumbs/specpol.jpg) center;
   background-size: cover;
 }
 
@@ -400,7 +483,7 @@ blockquote {
 }
 
 #committees a:nth-child(7)  .grid-item {
-  background: url(/images/committee_thumbs/bg7.jpg) center;
+  background: url(/assets/images/committee_thumbs/unfccc.jpg) center;
   background-size: cover;
 }
 
@@ -409,16 +492,16 @@ blockquote {
 }
 
 #committees a:nth-child(8)  .grid-item {
-  background: url(/images/committee_thumbs/bg8.jpg) center;
+  background: url(/assets/images/committee_thumbs/unhcr.jpg) center;
   background-size: cover;
 }
 
 #committees a:nth-child(8) .grid-item:after {
-  content: "united nations high commission for refugees";
+  content: "united nations high commissioner for refugees";
 }
 
 #committees a:nth-child(9)  .grid-item {
-  background: url(/images/committee_thumbs/bg9.jpg) center;
+  background: url(/assets/images/committee_thumbs/unhrc.jpg) center;
   background-size: cover;
 }
 
@@ -427,7 +510,7 @@ blockquote {
 }
 
 #committees a:nth-child(10) .grid-item {
-  background: url(/images/committee_thumbs/bg10.jpg) center;
+  background: url(/assets/images/committee_thumbs/unhsc.jpg) center;
   background-size: cover;
 }
 
@@ -436,7 +519,7 @@ blockquote {
 }
 
 #committees a:nth-child(11) .grid-item {
-  background: url(/images/committee_thumbs/bg11.jpg) center;
+  background: url(/assets/images/committee_thumbs/unmsc.jpg) center;
   background-size: cover;
 }
 
@@ -445,7 +528,7 @@ blockquote {
 }
 
 #committees a:nth-child(12) .grid-item {
-  background: url(/images/committee_thumbs/bg12.jpg) center;
+  background: url(/assets/images/committee_thumbs/usnsc.jpg) center;
   background-size: cover;
 }
 
@@ -454,7 +537,7 @@ blockquote {
 }
 
 #committees a:nth-child(13) .grid-item {
-  background: url(/images/committee_thumbs/bg13.jpg) center;
+  background: url(/assets/images/committee_thumbs/unw.jpg) center;
   background-size: cover;
 }
 
@@ -463,7 +546,7 @@ blockquote {
 }
 
 #committees a:nth-child(14) .grid-item {
-  background: url(/images/committee_thumbs/bg14.jpg) center;
+  background: url(/assets/images/committee_thumbs/aippm.jpg) center;
   background-size: cover;
 }
 
@@ -471,101 +554,31 @@ blockquote {
   content: "all india political parties meet 2002";
 }
 
-
-
 /**
  * Gallery styles
  */
 
-#gallery .grid-item:nth-child(1) {
-  background: url(/images/gallery/pic1.JPG) center;
-  background-size: cover;
+#gallery .grid-item {
+  cursor: default;
 }
 
-#gallery .grid-item:nth-child(2) {
-  background: url(/images/gallery/pic2.JPG) center;
-  background-size: cover;
-}
+/* Set backgrounds for all images in '/assets/images/gallery' */
+/* Ugly formatting to avoid newlines in generated stylesheet */
+/* Only .jpg(case sensitive) images will turn up */
 
-#gallery .grid-item:nth-child(3) {
-  background: url(/images/gallery/pic3.JPG) center;
+{% assign counter = 0 %}{% for image in site.static_files %}{% if image.path contains 'assets/images/gallery' and image.path contains '.jpg' %}{% assign counter = counter | plus: 1 %}
+#gallery .grid-item:nth-child({{ counter }}) {
+  background: url({{ image.path }}) center;
   background-size: cover;
 }
-
-#gallery .grid-item:nth-child(4) {
-  background: url(/images/gallery/pic4.JPG) center;
-  background-size: cover;
-}
-
-#gallery .grid-item:nth-child(5) {
-  background: url(/images/gallery/pic5.JPG) center;
-  background-size: cover;
-}
-
-#gallery .grid-item:nth-child(6) {
-  background: url(/images/gallery/pic6.JPG) center;
-  background-size: cover;
-}
-
-#gallery .grid-item:nth-child(7) {
-  background: url(/images/gallery/pic7.JPG) center;
-  background-size: cover;
-}
-
-#gallery .grid-item:nth-child(8) {
-  background: url(/images/gallery/pic8.jpg) center;
-  background-size: cover;
-}
-
-#gallery .grid-item:nth-child(9) {
-  background: url(/images/gallery/pic9.jpg) center;
-  background-size: cover;
-}
-
-#gallery .grid-item:nth-child(10) {
-  background: url(/images/gallery/pic10.jpg) center;
-  background-size: cover;
-}
-
-#gallery .grid-item:nth-child(11) {
-  background: url(/images/gallery/pic11.jpg) center;
-  background-size: cover;
-}
-
-#gallery .grid-item:nth-child(12) {
-  background: url(/images/gallery/pic12.jpg) center;
-  background-size: cover;
-}
-
-#gallery .grid-item:nth-child(13) {
-  background: url(/images/gallery/pic13.jpg) center;
-  background-size: cover;
-}
-
-#gallery .grid-item:nth-child(14) {
-  background: url(/images/gallery/pic14.jpg) center;
-  background-size: cover;
-}
-
-#gallery .grid-item:nth-child(15) {
-  background: url(/images/gallery/pic15.jpg) center;
-  background-size: cover;
-}
-
-#gallery .grid-item:nth-child(16) {
-  background: url(/images/gallery/pic16.jpg) center;
-  background-size: cover;
-}
+{% endif %}{% endfor %}
 
 /**
  * Contact styles
  */
+
 #contact ul {
   list-style-type: none;
-}
-
-#contact li {
-  margin-bottom: 0.5em;
 }
 
 #contact form {
@@ -629,21 +642,20 @@ blockquote {
  * Committee page styles
  */
 
-#committee hr + ul {
-  list-style-type: none;
-}
-
 #committee li {
-  line-height: 1.45;
   margin-bottom: 0.5em;
 }
 
-#committee ul {
-  margin-bottom: 1.5em;
+#committee p + ul {
+    margin-bottom: 1.5em;
 }
 
 #deputy-chairpersons {
   margin-top: 2em;
+}
+
+#deputy-chairpersons + ul {
+  list-style-type: none;
 }
 
 .chair_img {
@@ -690,27 +702,8 @@ blockquote {
 
 .chair_img figcaption {
   color: gray;
-  margin-top: 0.5em;
+  margin: 0.5em 0;
   text-align: center;
-}
-
-/**
- * Thanks page styles
- */
-
-#thanks + footer {
-  bottom: 0;
-  position: absolute;
-  width: 100%;
-}
-
-/**
- * Updates page styles
- */
-
-#updates li {
-  line-height: 1.45;
-  margin-bottom: 1em;
 }
 
 /**

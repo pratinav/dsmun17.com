@@ -2,6 +2,7 @@
 permalink: /committees/specpol/
 title: Special Political and Decolonization Committee
 chair: Vedant Mehra
+groupid: 122242641738378/
 ---
 
 Greetings, Delegates! My name is Vedant Mehra and it is my privilege to serve as the Chairperson of the Special Political and Decolonization Committee at DSMUN 2017.
@@ -20,7 +21,7 @@ All that is left is for me is to wish you luck with your preparations and remind
 I look forward to working with each one of you this fall!
 
 ### Deputy Chairpersons
-<hr>
+
 
 - Armaan Verma
 - Devansh Mittal

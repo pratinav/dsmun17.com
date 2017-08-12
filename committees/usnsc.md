@@ -2,6 +2,7 @@
 permalink: /committees/usnsc/
 title: United States National Security Council
 chair: Archit Barthwal
+groupid: 269378340212497/
 ---
 
 Greetings Delegates!
@@ -21,7 +22,10 @@ Together, let’s make DSMUN great again!
 Archit Barthwal (As Prez. Donald J. Trump)
 
 ### Deputy Chairpersons
-<hr>
 
 - Pritish Dugar
 - Yash Dewan
+
+### Background guide freeze date
+
+29th July, 2017

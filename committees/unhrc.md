@@ -3,6 +3,7 @@ permalink: /committees/unhrc/
 title: United Nations Human Rights Council
 chair: Harshit Bansal
 email: hrc
+groupid: 107759073235450/
 ---
 
 Dear Delegates,
@@ -27,7 +28,7 @@ Harshit Bansal
 
 
 ### Deputy Chairpersons
-<hr>
+
 
 - Rajveer Kocchar
 - Milind Khemka

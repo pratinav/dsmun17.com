@@ -3,6 +3,7 @@ permalink: /committees/unsc/
 title: United Nations Security Council
 chair: Arjun Singh
 email: sc
+groupid: 1930867030530053/
 ---
 
 Greetings Delegates!
@@ -23,7 +24,7 @@ Looking forward to meeting you and, more importantly, working together at the co
 À bientôt!
 
 ### Deputy Chairpersons
-<hr>
+
 
 - Kanishkh Kanodia
 - Amal Bansode

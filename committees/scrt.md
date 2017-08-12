@@ -2,6 +2,7 @@
 permalink: /committees/scrt/
 title: Special Convention on Religion and Terror
 chair: Vathsal Kumar Gupta
+groupid: 279030652503941/
 ---
 
 Greetings Delegates,
@@ -28,7 +29,7 @@ Vathsal K. Gupta
 
 
 ### Deputy Chairpersons
-<hr>
+
 
 - Anant Jain
 - Shiven Dewan
