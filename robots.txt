@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /thanks.html
+Sitemap: http://www.dsmun17.com/sitemap.xml
