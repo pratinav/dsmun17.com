@@ -1,0 +1,22 @@
+/* TEAM */
+  Web Developer: Pratinav Bagla
+  Website: https://pratinav.github.io
+  Github: @pratinav
+  From: India
+
+  Web Developer: Shreyas Minocha
+  Website: http://shreyasminocha.me
+  Github: @shreyasminocha
+  From: Hyderabad, India
+
+/* THANKS */
+
+  Background guides and other design stuff: Amal Bansode
+  Behance: https://www.behance.net/amalnbansode
+  From: Bengaluru, India
+
+/* SITE */
+  Language: English
+  Standards: HTML5, CSS3, Javascript ES5
+  IDE: Sublime Text 3, Atom
+  Other tools: Jekyll, Photoshop, tinyjpg.com, Adobe Acrobat
