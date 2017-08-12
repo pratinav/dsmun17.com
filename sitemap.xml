@@ -1,143 +1,53 @@
+---
+layout: none
+---
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
   <url>
     <loc>http://dsmun17.com/</loc>
     <priority>1.0</priority>
   </url>
+
   <url>
     <loc>http://dsmun17.com/#committees/</loc>
     <priority>0.8</priority>
   </url>
+
   <url>
     <loc>http://dsmun17.com/updates/</loc>
     <priority>0.8</priority>
   </url>
+
   <url>
     <loc>http://dsmun17.com/schedule/</loc>
     <priority>0.8</priority>
   </url>
+
   <url>
     <loc>http://dsmun17.com/about-the-eb/</loc>
     <priority>0.8</priority>
   </url>
+
   <url>
     <loc>http://dsmun17.com/gallery/</loc>
     <priority>0.8</priority>
   </url>
+
   <url>
     <loc>http://dsmun17.com/contact/</loc>
     <priority>0.8</priority>
   </url>
+{% for committee in site.committees %}
   <url>
-    <loc>http://dsmun17.com/committees/usnsc/</loc>
+    <loc>http://dsmun17.com/committees/{{ committee }}/</loc>
     <priority>0.6</priority>
   </url>
+{% endfor %}
+{% for committee in site.committees %}
   <url>
-    <loc>http://dsmun17.com/committees/aippm/</loc>
+    <loc>http://dsmun17.com/assets/bgs/{{ committee }}.pdf</loc>
     <priority>0.6</priority>
   </url>
-  <url>
-    <loc>http://dsmun17.com/committees/unw/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/committees/unhrc/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/committees/unhsc/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/committees/specpol/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/committees/unmsc/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/committees/ipc/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/committees/unhcr/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/committees/scrt/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/committees/unfccc/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/committees/ls/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/committees/disec/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/committees/unsc/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/assets/bgs/ipc.pdf</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/assets/bgs/unmsc.pdf</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/assets/bgs/usnsc.pdf</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/assets/bgs/specpol.pdf</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/assets/bgs/unhsc.pdf</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/assets/bgs/aippm.pdf</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/assets/bgs/unhrc.pdf</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/assets/bgs/unw.pdf</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/assets/bgs/unhcr.pdf</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/assets/bgs/unsc.pdf</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/assets/bgs/scrt.pdf</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/assets/bgs/ls.pdf</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/assets/bgs/disec.pdf</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://dsmun17.com/assets/bgs/unfccc.pdf</loc>
-    <priority>0.6</priority>
-  </url>
+{% endfor %}
 </urlset>
