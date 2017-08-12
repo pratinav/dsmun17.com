@@ -4,3 +4,20 @@ defaults:
   -
     values:
       layout: "committee_page"
+
+committees: [  
+               "unsc",
+               "disec",
+               "ipc",
+               "ls",
+               "scrt",
+               "specpol",
+               "unfccc",
+               "unhcr",
+               "unhrc",
+               "unhsc",
+               "unmsc",
+               "usnsc",
+               "unw",
+               "aippm"
+            ]
