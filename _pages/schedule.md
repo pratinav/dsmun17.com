@@ -16,6 +16,6 @@ title: Schedule
 		<a class="btn" href="https://calendar.google.com/calendar/ical/doonschool.com_hr0ptlq7cm8jeh5pe7gbbcaop8%40group.calendar.google.com/public/basic.ics">Import to iCal</a>
 	</li>
 	<li>
-		<a class="btn" href="/assets/Conference-Schedule-DSMUN-17.pdf">Download the Schedule</a>
+		<a class="btn" href="/assets/Conference-Schedule-DSMUN-17.pdf" target="_blank" rel="noopener noreferrer">Download the Schedule</a>
 	</li>
 </ul>
