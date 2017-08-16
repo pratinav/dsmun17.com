@@ -3,6 +3,7 @@ permalink: /committees/specpol/
 title: Special Political and Decolonization Committee
 chair: Vedant Mehra
 groupid: 122242641738378/
+description: SPECPOL at the Doon School Model United Nations 2017
 ---
 
 Greetings, Delegates! My name is Vedant Mehra and it is my privilege to serve as the Chairperson of the Special Political and Decolonization Committee at DSMUN 2017.

@@ -4,13 +4,14 @@ title: United Nations Historical Security Council
 chair: Ishan Jhawar
 email: hsc
 groupid: 1326176357507803/
+description: UNHSC at the Doon School Model United Nations 2017
 ---
 
 Hello delegates,
 
 Welcome to the Historic Security Council at DSMUN 2017.
 
-My name is Ishan Jhawar and I am honored to be your chairperson this year. I'm in the twelfth standard and pursuing (at least trying to pursue) the International Baccalaureate.  
+My name is Ishan Jhawar and I am honored to be your chairperson this year. I'm in the twelfth standard and pursuing (at least trying to pursue) the International Baccalaureate.
 
 My journey in MUNing began as a mere chitboy at DSMUN. I have ever since been in love with the heated debate, dynamics, tensions and diplomacy involved in it and am now an avid MUNner. It is my first time as a chairperson and I aim to create an unforgettable experience for you all at DSMUN, this year!
 

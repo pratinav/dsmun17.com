@@ -3,6 +3,7 @@ permalink: /committees/ls/
 title: Lok Sabha
 chair: Raihan Vadra
 groupid: 1419317478103363/
+description: LS at the Doon School Model United Nations 2017
 ---
 
 Speeches are heard, Votes are taken and Laws are made! Welcome to the Lok Sabha. I am honoured and privileged to be serving as the Speaker of this historic body at DSMUN 2017.
