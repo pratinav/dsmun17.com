@@ -1,1 +1,7 @@
+# use custom 404 page
 ErrorDocument 404 /404.html
+
+# redirect to www
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
