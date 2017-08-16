@@ -6,5 +6,12 @@
     {% include header.html %}
     {{ content }}
     {% include footer.html %}
+    
+    {% if page.scripts != null %}
+    {% for path in page.scripts %}
+    <script type="text/javascript" src="{{ path }}"></script>
+    {% endfor %}
+    {% endif %}
   </body>
+
 </html>
