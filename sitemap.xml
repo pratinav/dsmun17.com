@@ -5,48 +5,48 @@ layout: none
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   
   <url>
-    <loc>http://dsmun17.com/</loc>
+    <loc>http://www.dsmun17.com/</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>http://dsmun17.com/#committees/</loc>
+    <loc>http://www.dsmun17.com/#committees/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://dsmun17.com/updates/</loc>
+    <loc>http://www.dsmun17.com/updates/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://dsmun17.com/schedule/</loc>
+    <loc>http://www.dsmun17.com/schedule/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://dsmun17.com/about-the-eb/</loc>
+    <loc>http://www.dsmun17.com/about-the-eb/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://dsmun17.com/gallery/</loc>
+    <loc>http://www.dsmun17.com/gallery/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://dsmun17.com/contact/</loc>
+    <loc>http://www.dsmun17.com/contact/</loc>
     <priority>0.8</priority>
   </url>
 {% for committee in site.committees %}
   <url>
-    <loc>http://dsmun17.com/committees/{{ committee }}/</loc>
+    <loc>http://www.dsmun17.com/committees/{{ committee }}/</loc>
     <priority>0.6</priority>
   </url>
 {% endfor %}
 {% for committee in site.committees %}
   <url>
-    <loc>http://dsmun17.com/assets/bgs/{{ committee }}.pdf</loc>
+    <loc>http://www.dsmun17.com/assets/bgs/{{ committee }}.pdf</loc>
     <priority>0.6</priority>
   </url>
 {% endfor %}
