@@ -4,6 +4,7 @@ title: United Nations Military Staff Committee
 chair: Yuvan Jaidka
 email: msc
 groupid: 376950212723956/
+description: UNMSC at the Doon School Model United Nations 2017
 ---
 
 Hello and welcome, Delegates, to the 11th The Doon School Model United Nations, a decade old, prestigious International MUN with high standards of debate and respect for diplomacy.

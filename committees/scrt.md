@@ -3,6 +3,7 @@ permalink: /committees/scrt/
 title: Special Convention on Religion and Terror
 chair: Vathsal Kumar Gupta
 groupid: 279030652503941/
+description: SCRT at the Doon School Model United Nations 2017
 ---
 
 Greetings Delegates,

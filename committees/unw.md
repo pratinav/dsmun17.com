@@ -3,6 +3,7 @@ permalink: /committees/unw/
 title: United Nations Commission on Women Status
 chair: Devang Laddha
 groupid: 362498300834590/
+description: UNW at the Doon School Model United Nations 2017
 ---
 
 Dear Delegates,

@@ -4,6 +4,7 @@ title: United Nations Security Council
 chair: Arjun Singh
 email: sc
 groupid: 1930867030530053/
+description: UNSC at the Doon School Model United Nations 2017
 ---
 
 Greetings Delegates!

@@ -3,6 +3,7 @@ permalink: /committees/disec/
 title: Disarmament and International Security Committee
 chair: Arunav Vaish
 groupid: 716166555251195/
+description: DISEC at the Doon School Model United Nations 2017
 ---
 
 > “The Disarmament Conference has become the focal point of a great struggle between anarchy and world order… between those who think in terms of inevitable armed conflict and those who seek to build a universal and durable peace.”

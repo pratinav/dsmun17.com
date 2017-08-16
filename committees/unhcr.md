@@ -3,6 +3,7 @@ permalink: /committees/unhcr/
 title: United Nations High Commissioner For Refugees
 chair: Zoraver Mehta
 email: hcr
+description: UNHCR at the Doon School Model United Nations 2017
 ---
 
 Greetings Delegates,

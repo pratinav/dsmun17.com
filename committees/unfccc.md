@@ -4,6 +4,7 @@ title: United Nations Framework Convention on Climate Change
 chair: Adityavardhan Agrawal
 email: fcc
 groupid: 111208932874744/
+description: UNFCCC at the Doon School Model United Nations 2017
 ---
 
 Dear Delegates,
