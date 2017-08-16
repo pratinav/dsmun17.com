@@ -32,5 +32,10 @@
 
   <meta name="google-site-verification" content="LOY-ruW-kp7EirYo5ig3cEciTMVWxOtLrDMU5BdfFR0">
 
+  {% if page.canonical != null %}
+  <!-- canonical -->
+  <link rel="canonical" href="{{ page.canonical }}">
+  {% endif %}
+
   <link rel="author" href="{{ site.baseurl }}/humans.txt">
 </head>
