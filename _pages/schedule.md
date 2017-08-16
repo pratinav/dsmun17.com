@@ -2,6 +2,7 @@
 layout: notice
 permalink: /schedule/
 title: Schedule
+description: Conference schedule for the Doon School Model United Nations 2017
 ---
 
 ### Schedule

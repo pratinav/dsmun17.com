@@ -2,6 +2,7 @@
 permalink: /committees/ipc/
 title: International Press Corps
 chair: Aryan Chhabra
+description: IPC at the Doon School Model United Nations 2017
 ---
 
 It gives me great pleasure to welcome you to International Press Corps of DSMUN’17.

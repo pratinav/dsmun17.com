@@ -3,6 +3,7 @@ permalink: /committees/usnsc/
 title: United States National Security Council
 chair: Archit Barthwal
 groupid: 269378340212497/
+description: USNSC at the Doon School Model United Nations 2017
 ---
 
 Greetings Delegates!

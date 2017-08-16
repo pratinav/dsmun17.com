@@ -4,6 +4,7 @@ title: United Nations Human Rights Council
 chair: Harshit Bansal
 email: hrc
 groupid: 107759073235450/
+description: UNHRC at the Doon School Model United Nations 2017
 ---
 
 Dear Delegates,

@@ -3,6 +3,7 @@ title: All India Political Parties Meet 2002
 permalink: /committees/aippm/
 chair: Shikhar Trivedi
 groupid: 606219333099538/
+description: AIPPM at the Doon School Model United Nations 2017
 ---
 
 Namaste Delegates!
@@ -20,9 +21,7 @@ The agenda provides a lot of scope for points and counter-points and I am expect
 All the best for the conference, and see you soon.
 
 Signing off,
-
 Shikhar Trivedi
-
 
 ### Deputy chairpersons
 
