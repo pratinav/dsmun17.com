@@ -4,7 +4,7 @@ layout: default
 <section id="committee" class="container panel clear-header">
   <h3>{{ page.title }}</h3>
   <figure class="chair_img">
-    <img src="{{ site.baseurl }}/assets/images/chairpersons/{{ page.name | remove: 'md' }}jpg">
+    <img src="{{ site.baseurl }}/assets/images/chairpersons/{{ page.name | remove: 'md' }}jpg" alt="{{ page.name | remove: '.md' | upcase }} Chairperson">
     <figcaption>
       {{ page.chair }}<br>
       <a href="mailto:chair.{% if page.email != null %}{{ page.email }}{% else %}{{ page.name | remove: '.md' }}{% endif %}@doonschool.com">chair.{% if page.email != null %}{{ page.email }}{% else %}{{ page.name | remove: '.md' }}{% endif %}@doonschool.com</a>
